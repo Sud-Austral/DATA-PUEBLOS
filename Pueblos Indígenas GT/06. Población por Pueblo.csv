@@ -1,0 +1,2041 @@
+﻿Id_Dep,Id_Mun,Departamento,Municipio,Pueblo,Pobl. Pueblo,% Pobl. Pueblos
+1,101,Guatemala,Guatemala,Afrodescendiente / Creole / Afromestizo,2123,0.2 %
+1,101,Guatemala,Guatemala,Extranjera(o),9632,1.0 %
+1,101,Guatemala,Guatemala,Garífuna,1648,0.2 %
+1,101,Guatemala,Guatemala,Ladina(o),843249,91.3 %
+1,101,Guatemala,Guatemala,Maya,65658,7.1 %
+1,101,Guatemala,Guatemala,Xinka,1082,0.1 %
+1,102,Guatemala,Santa Catarina Pinula,Afrodescendiente / Creole / Afromestizo,88,0.1 %
+1,102,Guatemala,Santa Catarina Pinula,Extranjera(o),1105,1.4 %
+1,102,Guatemala,Santa Catarina Pinula,Garífuna,101,0.1 %
+1,102,Guatemala,Santa Catarina Pinula,Ladina(o),76159,94.5 %
+1,102,Guatemala,Santa Catarina Pinula,Maya,3037,3.8 %
+1,102,Guatemala,Santa Catarina Pinula,Xinka,92,0.1 %
+1,103,Guatemala,San José Pinula,Afrodescendiente / Creole / Afromestizo,49,0.1 %
+1,103,Guatemala,San José Pinula,Extranjera(o),614,0.8 %
+1,103,Guatemala,San José Pinula,Garífuna,106,0.1 %
+1,103,Guatemala,San José Pinula,Ladina(o),75826,95.0 %
+1,103,Guatemala,San José Pinula,Maya,3111,3.9 %
+1,103,Guatemala,San José Pinula,Xinka,138,0.2 %
+1,104,Guatemala,San José del Golfo,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+1,104,Guatemala,San José del Golfo,Extranjera(o),7,0.1 %
+1,104,Guatemala,San José del Golfo,Garífuna,3,0.0 %
+1,104,Guatemala,San José del Golfo,Ladina(o),7066,97.7 %
+1,104,Guatemala,San José del Golfo,Maya,115,1.6 %
+1,104,Guatemala,San José del Golfo,Xinka,37,0.5 %
+1,105,Guatemala,Palencia,Afrodescendiente / Creole / Afromestizo,36,0.1 %
+1,105,Guatemala,Palencia,Extranjera(o),86,0.1 %
+1,105,Guatemala,Palencia,Garífuna,91,0.1 %
+1,105,Guatemala,Palencia,Ladina(o),69406,97.8 %
+1,105,Guatemala,Palencia,Maya,1339,1.9 %
+1,105,Guatemala,Palencia,Xinka,15,0.0 %
+1,106,Guatemala,Chinautla,Afrodescendiente / Creole / Afromestizo,234,0.2 %
+1,106,Guatemala,Chinautla,Extranjera(o),397,0.3 %
+1,106,Guatemala,Chinautla,Garífuna,265,0.2 %
+1,106,Guatemala,Chinautla,Ladina(o),93828,81.8 %
+1,106,Guatemala,Chinautla,Maya,19853,17.3 %
+1,106,Guatemala,Chinautla,Xinka,175,0.2 %
+1,107,Guatemala,San Pedro Ayampuc,Afrodescendiente / Creole / Afromestizo,287,0.5 %
+1,107,Guatemala,San Pedro Ayampuc,Extranjera(o),134,0.2 %
+1,107,Guatemala,San Pedro Ayampuc,Garífuna,86,0.1 %
+1,107,Guatemala,San Pedro Ayampuc,Ladina(o),43584,74.4 %
+1,107,Guatemala,San Pedro Ayampuc,Maya,14383,24.5 %
+1,107,Guatemala,San Pedro Ayampuc,Xinka,135,0.2 %
+1,108,Guatemala,Mixco,Afrodescendiente / Creole / Afromestizo,984,0.2 %
+1,108,Guatemala,Mixco,Extranjera(o),3626,0.8 %
+1,108,Guatemala,Mixco,Garífuna,735,0.2 %
+1,108,Guatemala,Mixco,Ladina(o),416181,89.4 %
+1,108,Guatemala,Mixco,Maya,43691,9.4 %
+1,108,Guatemala,Mixco,Xinka,556,0.1 %
+1,109,Guatemala,San Pedro Sacatepéquez,Afrodescendiente / Creole / Afromestizo,102,0.2 %
+1,109,Guatemala,San Pedro Sacatepéquez,Extranjera(o),48,0.1 %
+1,109,Guatemala,San Pedro Sacatepéquez,Garífuna,54,0.1 %
+1,109,Guatemala,San Pedro Sacatepéquez,Ladina(o),12039,23.5 %
+1,109,Guatemala,San Pedro Sacatepéquez,Maya,39027,76.1 %
+1,109,Guatemala,San Pedro Sacatepéquez,Xinka,22,0.0 %
+1,110,Guatemala,San Juan Sacatepéquez,Afrodescendiente / Creole / Afromestizo,253,0.1 %
+1,110,Guatemala,San Juan Sacatepéquez,Extranjera(o),381,0.2 %
+1,110,Guatemala,San Juan Sacatepéquez,Garífuna,258,0.1 %
+1,110,Guatemala,San Juan Sacatepéquez,Ladina(o),79117,36.3 %
+1,110,Guatemala,San Juan Sacatepéquez,Maya,137962,63.2 %
+1,110,Guatemala,San Juan Sacatepéquez,Xinka,185,0.1 %
+1,111,Guatemala,San Raimundo,Afrodescendiente / Creole / Afromestizo,41,0.1 %
+1,111,Guatemala,San Raimundo,Extranjera(o),38,0.1 %
+1,111,Guatemala,San Raimundo,Garífuna,37,0.1 %
+1,111,Guatemala,San Raimundo,Ladina(o),8994,28.5 %
+1,111,Guatemala,San Raimundo,Maya,22488,71.2 %
+1,111,Guatemala,San Raimundo,Xinka,7,0.0 %
+1,112,Guatemala,Chuarrancho,Afrodescendiente / Creole / Afromestizo,25,0.2 %
+1,112,Guatemala,Chuarrancho,Extranjera(o),6,0.0 %
+1,112,Guatemala,Chuarrancho,Garífuna,5,0.0 %
+1,112,Guatemala,Chuarrancho,Ladina(o),1717,13.6 %
+1,112,Guatemala,Chuarrancho,Maya,10885,86.1 %
+1,112,Guatemala,Chuarrancho,Xinka,0,0.0 %
+1,113,Guatemala,Fraijanes,Afrodescendiente / Creole / Afromestizo,191,0.3 %
+1,113,Guatemala,Fraijanes,Extranjera(o),1100,1.9 %
+1,113,Guatemala,Fraijanes,Garífuna,77,0.1 %
+1,113,Guatemala,Fraijanes,Ladina(o),54846,93.1 %
+1,113,Guatemala,Fraijanes,Maya,2642,4.5 %
+1,113,Guatemala,Fraijanes,Xinka,66,0.1 %
+1,114,Guatemala,Amatitlán,Afrodescendiente / Creole / Afromestizo,261,0.2 %
+1,114,Guatemala,Amatitlán,Extranjera(o),280,0.2 %
+1,114,Guatemala,Amatitlán,Garífuna,108,0.1 %
+1,114,Guatemala,Amatitlán,Ladina(o),111807,95.8 %
+1,114,Guatemala,Amatitlán,Maya,4161,3.6 %
+1,114,Guatemala,Amatitlán,Xinka,94,0.1 %
+1,115,Guatemala,Villa Nueva,Afrodescendiente / Creole / Afromestizo,874,0.2 %
+1,115,Guatemala,Villa Nueva,Extranjera(o),1820,0.4 %
+1,115,Guatemala,Villa Nueva,Garífuna,634,0.1 %
+1,115,Guatemala,Villa Nueva,Ladina(o),408154,94.1 %
+1,115,Guatemala,Villa Nueva,Maya,21806,5.0 %
+1,115,Guatemala,Villa Nueva,Xinka,446,0.1 %
+1,116,Guatemala,Villa Canales,Afrodescendiente / Creole / Afromestizo,187,0.1 %
+1,116,Guatemala,Villa Canales,Extranjera(o),481,0.3 %
+1,116,Guatemala,Villa Canales,Garífuna,174,0.1 %
+1,116,Guatemala,Villa Canales,Ladina(o),149630,96.3 %
+1,116,Guatemala,Villa Canales,Maya,4774,3.1 %
+1,116,Guatemala,Villa Canales,Xinka,176,0.1 %
+1,117,Guatemala,Petapa,Afrodescendiente / Creole / Afromestizo,486,0.4 %
+1,117,Guatemala,Petapa,Extranjera(o),628,0.5 %
+1,117,Guatemala,Petapa,Garífuna,201,0.1 %
+1,117,Guatemala,Petapa,Ladina(o),126532,93.4 %
+1,117,Guatemala,Petapa,Maya,7444,5.5 %
+1,117,Guatemala,Petapa,Xinka,156,0.1 %
+2,201,El Progreso,Guastatoya,Afrodescendiente / Creole / Afromestizo,9,0.0 %
+2,201,El Progreso,Guastatoya,Extranjera(o),73,0.3 %
+2,201,El Progreso,Guastatoya,Garífuna,32,0.1 %
+2,201,El Progreso,Guastatoya,Ladina(o),24079,97.0 %
+2,201,El Progreso,Guastatoya,Maya,623,2.5 %
+2,201,El Progreso,Guastatoya,Xinka,5,0.0 %
+2,202,El Progreso,Morazán,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+2,202,El Progreso,Morazán,Extranjera(o),19,0.2 %
+2,202,El Progreso,Morazán,Garífuna,18,0.1 %
+2,202,El Progreso,Morazán,Ladina(o),11976,98.5 %
+2,202,El Progreso,Morazán,Maya,147,1.2 %
+2,202,El Progreso,Morazán,Xinka,3,0.0 %
+2,203,El Progreso,San Agustín Acasaguastlán,Afrodescendiente / Creole / Afromestizo,42,0.1 %
+2,203,El Progreso,San Agustín Acasaguastlán,Extranjera(o),38,0.1 %
+2,203,El Progreso,San Agustín Acasaguastlán,Garífuna,42,0.1 %
+2,203,El Progreso,San Agustín Acasaguastlán,Ladina(o),45079,98.5 %
+2,203,El Progreso,San Agustín Acasaguastlán,Maya,562,1.2 %
+2,203,El Progreso,San Agustín Acasaguastlán,Xinka,2,0.0 %
+2,204,El Progreso,San Cristóbal Acasaguastlán,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+2,204,El Progreso,San Cristóbal Acasaguastlán,Extranjera(o),4,0.1 %
+2,204,El Progreso,San Cristóbal Acasaguastlán,Garífuna,5,0.1 %
+2,204,El Progreso,San Cristóbal Acasaguastlán,Ladina(o),7114,98.8 %
+2,204,El Progreso,San Cristóbal Acasaguastlán,Maya,76,1.1 %
+2,204,El Progreso,San Cristóbal Acasaguastlán,Xinka,0,0.0 %
+2,205,El Progreso,El Jícaro,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+2,205,El Progreso,El Jícaro,Extranjera(o),10,0.1 %
+2,205,El Progreso,El Jícaro,Garífuna,14,0.1 %
+2,205,El Progreso,El Jícaro,Ladina(o),13033,99.3 %
+2,205,El Progreso,El Jícaro,Maya,69,0.5 %
+2,205,El Progreso,El Jícaro,Xinka,0,0.0 %
+2,206,El Progreso,Sanarate,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+2,206,El Progreso,Sanarate,Extranjera(o),13,0.1 %
+2,206,El Progreso,Sanarate,Garífuna,7,0.1 %
+2,206,El Progreso,Sanarate,Ladina(o),12952,98.5 %
+2,206,El Progreso,Sanarate,Maya,158,1.2 %
+2,206,El Progreso,Sanarate,Xinka,21,0.2 %
+2,207,El Progreso,Sansare,Afrodescendiente / Creole / Afromestizo,22,0.1 %
+2,207,El Progreso,Sansare,Extranjera(o),71,0.2 %
+2,207,El Progreso,Sansare,Garífuna,39,0.1 %
+2,207,El Progreso,Sansare,Ladina(o),38738,98.2 %
+2,207,El Progreso,Sansare,Maya,564,1.4 %
+2,207,El Progreso,Sansare,Xinka,10,0.0 %
+2,208,El Progreso,San Antonio La Paz,Afrodescendiente / Creole / Afromestizo,7,0.0 %
+2,208,El Progreso,San Antonio La Paz,Extranjera(o),20,0.1 %
+2,208,El Progreso,San Antonio La Paz,Garífuna,27,0.1 %
+2,208,El Progreso,San Antonio La Paz,Ladina(o),20470,97.7 %
+2,208,El Progreso,San Antonio La Paz,Maya,428,2.0 %
+2,208,El Progreso,San Antonio La Paz,Xinka,5,0.0 %
+3,301,Sacatepéquez,Antigua Guatemala,Afrodescendiente / Creole / Afromestizo,63,0.1 %
+3,301,Sacatepéquez,Antigua Guatemala,Extranjera(o),581,1.3 %
+3,301,Sacatepéquez,Antigua Guatemala,Garífuna,62,0.1 %
+3,301,Sacatepéquez,Antigua Guatemala,Ladina(o),40191,87.3 %
+3,301,Sacatepéquez,Antigua Guatemala,Maya,5139,11.2 %
+3,301,Sacatepéquez,Antigua Guatemala,Xinka,18,0.0 %
+3,302,Sacatepéquez,Jocotenango,Afrodescendiente / Creole / Afromestizo,15,0.1 %
+3,302,Sacatepéquez,Jocotenango,Extranjera(o),118,0.5 %
+3,302,Sacatepéquez,Jocotenango,Garífuna,36,0.2 %
+3,302,Sacatepéquez,Jocotenango,Ladina(o),19844,91.6 %
+3,302,Sacatepéquez,Jocotenango,Maya,1631,7.5 %
+3,302,Sacatepéquez,Jocotenango,Xinka,13,0.1 %
+3,303,Sacatepéquez,Pastores,Afrodescendiente / Creole / Afromestizo,17,0.1 %
+3,303,Sacatepéquez,Pastores,Extranjera(o),29,0.2 %
+3,303,Sacatepéquez,Pastores,Garífuna,20,0.1 %
+3,303,Sacatepéquez,Pastores,Ladina(o),16407,92.1 %
+3,303,Sacatepéquez,Pastores,Maya,1337,7.5 %
+3,303,Sacatepéquez,Pastores,Xinka,4,0.0 %
+3,304,Sacatepéquez,Sumpango,Afrodescendiente / Creole / Afromestizo,39,0.1 %
+3,304,Sacatepéquez,Sumpango,Extranjera(o),48,0.1 %
+3,304,Sacatepéquez,Sumpango,Garífuna,75,0.2 %
+3,304,Sacatepéquez,Sumpango,Ladina(o),3446,9.2 %
+3,304,Sacatepéquez,Sumpango,Maya,33631,90.3 %
+3,304,Sacatepéquez,Sumpango,Xinka,21,0.1 %
+3,305,Sacatepéquez,Santo Domingo Xenacoj,Afrodescendiente / Creole / Afromestizo,20,0.2 %
+3,305,Sacatepéquez,Santo Domingo Xenacoj,Extranjera(o),15,0.1 %
+3,305,Sacatepéquez,Santo Domingo Xenacoj,Garífuna,4,0.0 %
+3,305,Sacatepéquez,Santo Domingo Xenacoj,Ladina(o),1501,12.1 %
+3,305,Sacatepéquez,Santo Domingo Xenacoj,Maya,10849,87.5 %
+3,305,Sacatepéquez,Santo Domingo Xenacoj,Xinka,13,0.1 %
+3,306,Sacatepéquez,Santiago Sacatepéquez,Afrodescendiente / Creole / Afromestizo,121,0.4 %
+3,306,Sacatepéquez,Santiago Sacatepéquez,Extranjera(o),89,0.3 %
+3,306,Sacatepéquez,Santiago Sacatepéquez,Garífuna,34,0.1 %
+3,306,Sacatepéquez,Santiago Sacatepéquez,Ladina(o),4977,17.0 %
+3,306,Sacatepéquez,Santiago Sacatepéquez,Maya,24002,82.1 %
+3,306,Sacatepéquez,Santiago Sacatepéquez,Xinka,15,0.1 %
+3,307,Sacatepéquez,San Bartolomé Milpas Altas,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+3,307,Sacatepéquez,San Bartolomé Milpas Altas,Extranjera(o),51,0.7 %
+3,307,Sacatepéquez,San Bartolomé Milpas Altas,Garífuna,15,0.2 %
+3,307,Sacatepéquez,San Bartolomé Milpas Altas,Ladina(o),5417,69.3 %
+3,307,Sacatepéquez,San Bartolomé Milpas Altas,Maya,2320,29.7 %
+3,307,Sacatepéquez,San Bartolomé Milpas Altas,Xinka,13,0.2 %
+3,308,Sacatepéquez,San Lucas Sacatepéquez,Afrodescendiente / Creole / Afromestizo,93,0.4 %
+3,308,Sacatepéquez,San Lucas Sacatepéquez,Extranjera(o),243,1.0 %
+3,308,Sacatepéquez,San Lucas Sacatepéquez,Garífuna,55,0.2 %
+3,308,Sacatepéquez,San Lucas Sacatepéquez,Ladina(o),20692,88.5 %
+3,308,Sacatepéquez,San Lucas Sacatepéquez,Maya,2232,9.6 %
+3,308,Sacatepéquez,San Lucas Sacatepéquez,Xinka,54,0.2 %
+3,309,Sacatepéquez,Santa Lucía Milpas Altas,Afrodescendiente / Creole / Afromestizo,14,0.1 %
+3,309,Sacatepéquez,Santa Lucía Milpas Altas,Extranjera(o),82,0.5 %
+3,309,Sacatepéquez,Santa Lucía Milpas Altas,Garífuna,30,0.2 %
+3,309,Sacatepéquez,Santa Lucía Milpas Altas,Ladina(o),14617,93.9 %
+3,309,Sacatepéquez,Santa Lucía Milpas Altas,Maya,822,5.3 %
+3,309,Sacatepéquez,Santa Lucía Milpas Altas,Xinka,5,0.0 %
+3,310,Sacatepéquez,Magdalena Milpas Altas,Afrodescendiente / Creole / Afromestizo,17,0.1 %
+3,310,Sacatepéquez,Magdalena Milpas Altas,Extranjera(o),26,0.2 %
+3,310,Sacatepéquez,Magdalena Milpas Altas,Garífuna,8,0.1 %
+3,310,Sacatepéquez,Magdalena Milpas Altas,Ladina(o),8577,72.3 %
+3,310,Sacatepéquez,Magdalena Milpas Altas,Maya,3227,27.2 %
+3,310,Sacatepéquez,Magdalena Milpas Altas,Xinka,1,0.0 %
+3,311,Sacatepéquez,Santa María de Jesús,Afrodescendiente / Creole / Afromestizo,15,0.1 %
+3,311,Sacatepéquez,Santa María de Jesús,Extranjera(o),7,0.0 %
+3,311,Sacatepéquez,Santa María de Jesús,Garífuna,11,0.1 %
+3,311,Sacatepéquez,Santa María de Jesús,Ladina(o),355,1.6 %
+3,311,Sacatepéquez,Santa María de Jesús,Maya,21538,98.2 %
+3,311,Sacatepéquez,Santa María de Jesús,Xinka,12,0.1 %
+3,312,Sacatepéquez,Ciudad Vieja,Afrodescendiente / Creole / Afromestizo,27,0.1 %
+3,312,Sacatepéquez,Ciudad Vieja,Extranjera(o),74,0.2 %
+3,312,Sacatepéquez,Ciudad Vieja,Garífuna,29,0.1 %
+3,312,Sacatepéquez,Ciudad Vieja,Ladina(o),32474,97.2 %
+3,312,Sacatepéquez,Ciudad Vieja,Maya,790,2.4 %
+3,312,Sacatepéquez,Ciudad Vieja,Xinka,11,0.0 %
+3,313,Sacatepéquez,San Miguel Dueñas,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+3,313,Sacatepéquez,San Miguel Dueñas,Extranjera(o),44,0.3 %
+3,313,Sacatepéquez,San Miguel Dueñas,Garífuna,11,0.1 %
+3,313,Sacatepéquez,San Miguel Dueñas,Ladina(o),11716,92.3 %
+3,313,Sacatepéquez,San Miguel Dueñas,Maya,918,7.2 %
+3,313,Sacatepéquez,San Miguel Dueñas,Xinka,1,0.0 %
+3,314,Sacatepéquez,Alotenango,Afrodescendiente / Creole / Afromestizo,9,0.0 %
+3,314,Sacatepéquez,Alotenango,Extranjera(o),40,0.2 %
+3,314,Sacatepéquez,Alotenango,Garífuna,26,0.1 %
+3,314,Sacatepéquez,Alotenango,Ladina(o),13199,55.0 %
+3,314,Sacatepéquez,Alotenango,Maya,10703,44.6 %
+3,314,Sacatepéquez,Alotenango,Xinka,9,0.0 %
+3,315,Sacatepéquez,San Antonio Aguas Calientes,Afrodescendiente / Creole / Afromestizo,22,0.2 %
+3,315,Sacatepéquez,San Antonio Aguas Calientes,Extranjera(o),32,0.3 %
+3,315,Sacatepéquez,San Antonio Aguas Calientes,Garífuna,6,0.1 %
+3,315,Sacatepéquez,San Antonio Aguas Calientes,Ladina(o),1290,11.4 %
+3,315,Sacatepéquez,San Antonio Aguas Calientes,Maya,9988,88.0 %
+3,315,Sacatepéquez,San Antonio Aguas Calientes,Xinka,9,0.1 %
+3,316,Sacatepéquez,Santa Catarina Barahona,Afrodescendiente / Creole / Afromestizo,8,0.2 %
+3,316,Sacatepéquez,Santa Catarina Barahona,Extranjera(o),7,0.2 %
+3,316,Sacatepéquez,Santa Catarina Barahona,Garífuna,6,0.1 %
+3,316,Sacatepéquez,Santa Catarina Barahona,Ladina(o),398,9.8 %
+3,316,Sacatepéquez,Santa Catarina Barahona,Maya,3635,89.5 %
+3,316,Sacatepéquez,Santa Catarina Barahona,Xinka,7,0.2 %
+4,401,Chimaltenango,Chimaltenango,Afrodescendiente / Creole / Afromestizo,264,0.3 %
+4,401,Chimaltenango,Chimaltenango,Extranjera(o),301,0.3 %
+4,401,Chimaltenango,Chimaltenango,Garífuna,148,0.2 %
+4,401,Chimaltenango,Chimaltenango,Ladina(o),34577,35.7 %
+4,401,Chimaltenango,Chimaltenango,Maya,61583,63.5 %
+4,401,Chimaltenango,Chimaltenango,Xinka,112,0.1 %
+4,402,Chimaltenango,San José Poaquil,Afrodescendiente / Creole / Afromestizo,40,0.1 %
+4,402,Chimaltenango,San José Poaquil,Extranjera(o),2,0.0 %
+4,402,Chimaltenango,San José Poaquil,Garífuna,18,0.1 %
+4,402,Chimaltenango,San José Poaquil,Ladina(o),962,3.6 %
+4,402,Chimaltenango,San José Poaquil,Maya,25822,96.2 %
+4,402,Chimaltenango,San José Poaquil,Xinka,1,0.0 %
+4,403,Chimaltenango,San Martín Jilotepeque,Afrodescendiente / Creole / Afromestizo,173,0.2 %
+4,403,Chimaltenango,San Martín Jilotepeque,Extranjera(o),29,0.0 %
+4,403,Chimaltenango,San Martín Jilotepeque,Garífuna,58,0.1 %
+4,403,Chimaltenango,San Martín Jilotepeque,Ladina(o),7899,10.8 %
+4,403,Chimaltenango,San Martín Jilotepeque,Maya,65305,88.9 %
+4,403,Chimaltenango,San Martín Jilotepeque,Xinka,5,0.0 %
+4,404,Chimaltenango,Comalapa,Afrodescendiente / Creole / Afromestizo,19,0.0 %
+4,404,Chimaltenango,Comalapa,Extranjera(o),21,0.0 %
+4,404,Chimaltenango,Comalapa,Garífuna,31,0.1 %
+4,404,Chimaltenango,Comalapa,Ladina(o),1274,2.6 %
+4,404,Chimaltenango,Comalapa,Maya,47249,97.2 %
+4,404,Chimaltenango,Comalapa,Xinka,3,0.0 %
+4,405,Chimaltenango,Santa Apolonia,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+4,405,Chimaltenango,Santa Apolonia,Extranjera(o),0,0.0 %
+4,405,Chimaltenango,Santa Apolonia,Garífuna,7,0.0 %
+4,405,Chimaltenango,Santa Apolonia,Ladina(o),1327,7.2 %
+4,405,Chimaltenango,Santa Apolonia,Maya,17202,92.8 %
+4,405,Chimaltenango,Santa Apolonia,Xinka,0,0.0 %
+4,406,Chimaltenango,Tecpán Guatemala,Afrodescendiente / Creole / Afromestizo,109,0.1 %
+4,406,Chimaltenango,Tecpán Guatemala,Extranjera(o),84,0.1 %
+4,406,Chimaltenango,Tecpán Guatemala,Garífuna,74,0.1 %
+4,406,Chimaltenango,Tecpán Guatemala,Ladina(o),6603,7.2 %
+4,406,Chimaltenango,Tecpán Guatemala,Maya,85049,92.5 %
+4,406,Chimaltenango,Tecpán Guatemala,Xinka,8,0.0 %
+4,407,Chimaltenango,Patzún,Afrodescendiente / Creole / Afromestizo,65,0.1 %
+4,407,Chimaltenango,Patzún,Extranjera(o),29,0.0 %
+4,407,Chimaltenango,Patzún,Garífuna,33,0.1 %
+4,407,Chimaltenango,Patzún,Ladina(o),2724,4.7 %
+4,407,Chimaltenango,Patzún,Maya,55388,95.1 %
+4,407,Chimaltenango,Patzún,Xinka,1,0.0 %
+4,408,Chimaltenango,Pochuta,Afrodescendiente / Creole / Afromestizo,22,0.3 %
+4,408,Chimaltenango,Pochuta,Extranjera(o),7,0.1 %
+4,408,Chimaltenango,Pochuta,Garífuna,10,0.1 %
+4,408,Chimaltenango,Pochuta,Ladina(o),6345,72.2 %
+4,408,Chimaltenango,Pochuta,Maya,2398,27.3 %
+4,408,Chimaltenango,Pochuta,Xinka,8,0.1 %
+4,409,Chimaltenango,Patzicía,Afrodescendiente / Creole / Afromestizo,8,0.0 %
+4,409,Chimaltenango,Patzicía,Extranjera(o),15,0.0 %
+4,409,Chimaltenango,Patzicía,Garífuna,24,0.1 %
+4,409,Chimaltenango,Patzicía,Ladina(o),3153,9.5 %
+4,409,Chimaltenango,Patzicía,Maya,30006,90.4 %
+4,409,Chimaltenango,Patzicía,Xinka,1,0.0 %
+4,410,Chimaltenango,Santa Cruz Balanyá,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+4,410,Chimaltenango,Santa Cruz Balanyá,Extranjera(o),1,0.0 %
+4,410,Chimaltenango,Santa Cruz Balanyá,Garífuna,6,0.1 %
+4,410,Chimaltenango,Santa Cruz Balanyá,Ladina(o),342,3.6 %
+4,410,Chimaltenango,Santa Cruz Balanyá,Maya,9126,96.3 %
+4,410,Chimaltenango,Santa Cruz Balanyá,Xinka,0,0.0 %
+4,411,Chimaltenango,Acatenango,Afrodescendiente / Creole / Afromestizo,24,0.1 %
+4,411,Chimaltenango,Acatenango,Extranjera(o),13,0.1 %
+4,411,Chimaltenango,Acatenango,Garífuna,6,0.0 %
+4,411,Chimaltenango,Acatenango,Ladina(o),7887,34.0 %
+4,411,Chimaltenango,Acatenango,Maya,15279,65.8 %
+4,411,Chimaltenango,Acatenango,Xinka,19,0.1 %
+4,412,Chimaltenango,Yepocapa,Afrodescendiente / Creole / Afromestizo,39,0.1 %
+4,412,Chimaltenango,Yepocapa,Extranjera(o),33,0.1 %
+4,412,Chimaltenango,Yepocapa,Garífuna,48,0.1 %
+4,412,Chimaltenango,Yepocapa,Ladina(o),12378,35.4 %
+4,412,Chimaltenango,Yepocapa,Maya,22438,64.2 %
+4,412,Chimaltenango,Yepocapa,Xinka,12,0.0 %
+4,413,Chimaltenango,San Andrés Itzapa,Afrodescendiente / Creole / Afromestizo,22,0.1 %
+4,413,Chimaltenango,San Andrés Itzapa,Extranjera(o),41,0.1 %
+4,413,Chimaltenango,San Andrés Itzapa,Garífuna,31,0.1 %
+4,413,Chimaltenango,San Andrés Itzapa,Ladina(o),8911,27.8 %
+4,413,Chimaltenango,San Andrés Itzapa,Maya,23072,71.9 %
+4,413,Chimaltenango,San Andrés Itzapa,Xinka,6,0.0 %
+4,414,Chimaltenango,Parramos,Afrodescendiente / Creole / Afromestizo,282,1.8 %
+4,414,Chimaltenango,Parramos,Extranjera(o),9,0.1 %
+4,414,Chimaltenango,Parramos,Garífuna,18,0.1 %
+4,414,Chimaltenango,Parramos,Ladina(o),7809,49.0 %
+4,414,Chimaltenango,Parramos,Maya,7806,49.0 %
+4,414,Chimaltenango,Parramos,Xinka,0,0.0 %
+4,415,Chimaltenango,Zaragoza,Afrodescendiente / Creole / Afromestizo,118,0.5 %
+4,415,Chimaltenango,Zaragoza,Extranjera(o),48,0.2 %
+4,415,Chimaltenango,Zaragoza,Garífuna,16,0.1 %
+4,415,Chimaltenango,Zaragoza,Ladina(o),16604,69.1 %
+4,415,Chimaltenango,Zaragoza,Maya,7218,30.0 %
+4,415,Chimaltenango,Zaragoza,Xinka,18,0.1 %
+4,416,Chimaltenango,El Tejar,Afrodescendiente / Creole / Afromestizo,62,0.3 %
+4,416,Chimaltenango,El Tejar,Extranjera(o),79,0.4 %
+4,416,Chimaltenango,El Tejar,Garífuna,35,0.2 %
+4,416,Chimaltenango,El Tejar,Ladina(o),12879,66.1 %
+4,416,Chimaltenango,El Tejar,Maya,6394,32.8 %
+4,416,Chimaltenango,El Tejar,Xinka,43,0.2 %
+5,501,Escuintla,Escuintla,Afrodescendiente / Creole / Afromestizo,182,0.1 %
+5,501,Escuintla,Escuintla,Extranjera(o),449,0.3 %
+5,501,Escuintla,Escuintla,Garífuna,172,0.1 %
+5,501,Escuintla,Escuintla,Ladina(o),149631,95.7 %
+5,501,Escuintla,Escuintla,Maya,5828,3.7 %
+5,501,Escuintla,Escuintla,Xinka,51,0.0 %
+5,502,Escuintla,Santa Lucía Cotzumalguapa,Afrodescendiente / Creole / Afromestizo,151,0.1 %
+5,502,Escuintla,Santa Lucía Cotzumalguapa,Extranjera(o),121,0.1 %
+5,502,Escuintla,Santa Lucía Cotzumalguapa,Garífuna,104,0.1 %
+5,502,Escuintla,Santa Lucía Cotzumalguapa,Ladina(o),108234,96.0 %
+5,502,Escuintla,Santa Lucía Cotzumalguapa,Maya,4155,3.7 %
+5,502,Escuintla,Santa Lucía Cotzumalguapa,Xinka,15,0.0 %
+5,503,Escuintla,La Democracia,Afrodescendiente / Creole / Afromestizo,45,0.2 %
+5,503,Escuintla,La Democracia,Extranjera(o),27,0.1 %
+5,503,Escuintla,La Democracia,Garífuna,11,0.0 %
+5,503,Escuintla,La Democracia,Ladina(o),22320,97.0 %
+5,503,Escuintla,La Democracia,Maya,610,2.7 %
+5,503,Escuintla,La Democracia,Xinka,4,0.0 %
+5,504,Escuintla,Siquinalá,Afrodescendiente / Creole / Afromestizo,14,0.1 %
+5,504,Escuintla,Siquinalá,Extranjera(o),46,0.2 %
+5,504,Escuintla,Siquinalá,Garífuna,36,0.2 %
+5,504,Escuintla,Siquinalá,Ladina(o),21327,92.9 %
+5,504,Escuintla,Siquinalá,Maya,1541,6.7 %
+5,504,Escuintla,Siquinalá,Xinka,4,0.0 %
+5,505,Escuintla,Masagua,Afrodescendiente / Creole / Afromestizo,23,0.1 %
+5,505,Escuintla,Masagua,Extranjera(o),34,0.1 %
+5,505,Escuintla,Masagua,Garífuna,42,0.1 %
+5,505,Escuintla,Masagua,Ladina(o),43988,97.1 %
+5,505,Escuintla,Masagua,Maya,1228,2.7 %
+5,505,Escuintla,Masagua,Xinka,8,0.0 %
+5,506,Escuintla,Tiquisate,Afrodescendiente / Creole / Afromestizo,122,0.2 %
+5,506,Escuintla,Tiquisate,Extranjera(o),104,0.2 %
+5,506,Escuintla,Tiquisate,Garífuna,49,0.1 %
+5,506,Escuintla,Tiquisate,Ladina(o),55209,96.4 %
+5,506,Escuintla,Tiquisate,Maya,1769,3.1 %
+5,506,Escuintla,Tiquisate,Xinka,39,0.1 %
+5,507,Escuintla,La Gomera,Afrodescendiente / Creole / Afromestizo,114,0.2 %
+5,507,Escuintla,La Gomera,Extranjera(o),53,0.1 %
+5,507,Escuintla,La Gomera,Garífuna,53,0.1 %
+5,507,Escuintla,La Gomera,Ladina(o),45121,96.7 %
+5,507,Escuintla,La Gomera,Maya,1297,2.8 %
+5,507,Escuintla,La Gomera,Xinka,28,0.1 %
+5,508,Escuintla,Guanagazapa,Afrodescendiente / Creole / Afromestizo,33,0.2 %
+5,508,Escuintla,Guanagazapa,Extranjera(o),3,0.0 %
+5,508,Escuintla,Guanagazapa,Garífuna,13,0.1 %
+5,508,Escuintla,Guanagazapa,Ladina(o),13116,82.2 %
+5,508,Escuintla,Guanagazapa,Maya,2792,17.5 %
+5,508,Escuintla,Guanagazapa,Xinka,1,0.0 %
+5,509,Escuintla,San José,Afrodescendiente / Creole / Afromestizo,46,0.1 %
+5,509,Escuintla,San José,Extranjera(o),191,0.3 %
+5,509,Escuintla,San José,Garífuna,287,0.5 %
+5,509,Escuintla,San José,Ladina(o),60451,96.3 %
+5,509,Escuintla,San José,Maya,1793,2.9 %
+5,509,Escuintla,San José,Xinka,33,0.1 %
+5,510,Escuintla,Iztapa,Afrodescendiente / Creole / Afromestizo,17,0.1 %
+5,510,Escuintla,Iztapa,Extranjera(o),45,0.2 %
+5,510,Escuintla,Iztapa,Garífuna,5,0.0 %
+5,510,Escuintla,Iztapa,Ladina(o),17981,98.0 %
+5,510,Escuintla,Iztapa,Maya,293,1.6 %
+5,510,Escuintla,Iztapa,Xinka,1,0.0 %
+5,511,Escuintla,Palín,Afrodescendiente / Creole / Afromestizo,656,1.0 %
+5,511,Escuintla,Palín,Extranjera(o),287,0.4 %
+5,511,Escuintla,Palín,Garífuna,67,0.1 %
+5,511,Escuintla,Palín,Ladina(o),51446,78.1 %
+5,511,Escuintla,Palín,Maya,13370,20.3 %
+5,511,Escuintla,Palín,Xinka,47,0.1 %
+5,512,Escuintla,San Vicente Pacaya,Afrodescendiente / Creole / Afromestizo,9,0.1 %
+5,512,Escuintla,San Vicente Pacaya,Extranjera(o),12,0.1 %
+5,512,Escuintla,San Vicente Pacaya,Garífuna,13,0.1 %
+5,512,Escuintla,San Vicente Pacaya,Ladina(o),15862,95.0 %
+5,512,Escuintla,San Vicente Pacaya,Maya,809,4.8 %
+5,512,Escuintla,San Vicente Pacaya,Xinka,0,0.0 %
+5,513,Escuintla,Nueva Concepción,Afrodescendiente / Creole / Afromestizo,46,0.1 %
+5,513,Escuintla,Nueva Concepción,Extranjera(o),102,0.1 %
+5,513,Escuintla,Nueva Concepción,Garífuna,60,0.1 %
+5,513,Escuintla,Nueva Concepción,Ladina(o),71443,98.0 %
+5,513,Escuintla,Nueva Concepción,Maya,1244,1.7 %
+5,513,Escuintla,Nueva Concepción,Xinka,14,0.0 %
+5,514,Escuintla,Sipacate,Afrodescendiente / Creole / Afromestizo,8,0.0 %
+5,514,Escuintla,Sipacate,Extranjera(o),13,0.1 %
+5,514,Escuintla,Sipacate,Garífuna,21,0.1 %
+5,514,Escuintla,Sipacate,Ladina(o),15807,97.4 %
+5,514,Escuintla,Sipacate,Maya,371,2.3 %
+5,514,Escuintla,Sipacate,Xinka,14,0.1 %
+6,601,Santa Rosa,Cuilapa,Afrodescendiente / Creole / Afromestizo,56,0.1 %
+6,601,Santa Rosa,Cuilapa,Extranjera(o),72,0.2 %
+6,601,Santa Rosa,Cuilapa,Garífuna,69,0.2 %
+6,601,Santa Rosa,Cuilapa,Ladina(o),38530,93.2 %
+6,601,Santa Rosa,Cuilapa,Maya,1015,2.5 %
+6,601,Santa Rosa,Cuilapa,Xinka,1617,3.9 %
+6,602,Santa Rosa,Barberena,Afrodescendiente / Creole / Afromestizo,53,0.1 %
+6,602,Santa Rosa,Barberena,Extranjera(o),162,0.3 %
+6,602,Santa Rosa,Barberena,Garífuna,55,0.1 %
+6,602,Santa Rosa,Barberena,Ladina(o),55872,95.9 %
+6,602,Santa Rosa,Barberena,Maya,1640,2.8 %
+6,602,Santa Rosa,Barberena,Xinka,494,0.8 %
+6,603,Santa Rosa,Santa Rosa de Lima,Afrodescendiente / Creole / Afromestizo,77,0.4 %
+6,603,Santa Rosa,Santa Rosa de Lima,Extranjera(o),110,0.6 %
+6,603,Santa Rosa,Santa Rosa de Lima,Garífuna,58,0.3 %
+6,603,Santa Rosa,Santa Rosa de Lima,Ladina(o),14008,71.1 %
+6,603,Santa Rosa,Santa Rosa de Lima,Maya,467,2.4 %
+6,603,Santa Rosa,Santa Rosa de Lima,Xinka,4982,25.3 %
+6,604,Santa Rosa,Casillas,Afrodescendiente / Creole / Afromestizo,33,0.1 %
+6,604,Santa Rosa,Casillas,Extranjera(o),42,0.2 %
+6,604,Santa Rosa,Casillas,Garífuna,105,0.4 %
+6,604,Santa Rosa,Casillas,Ladina(o),10369,41.5 %
+6,604,Santa Rosa,Casillas,Maya,312,1.3 %
+6,604,Santa Rosa,Casillas,Xinka,14095,56.5 %
+6,605,Santa Rosa,San Rafael Las Flores,Afrodescendiente / Creole / Afromestizo,68,0.5 %
+6,605,Santa Rosa,San Rafael Las Flores,Extranjera(o),63,0.5 %
+6,605,Santa Rosa,San Rafael Las Flores,Garífuna,50,0.4 %
+6,605,Santa Rosa,San Rafael Las Flores,Ladina(o),9228,73.0 %
+6,605,Santa Rosa,San Rafael Las Flores,Maya,276,2.2 %
+6,605,Santa Rosa,San Rafael Las Flores,Xinka,2956,23.4 %
+6,606,Santa Rosa,Oratorio,Afrodescendiente / Creole / Afromestizo,45,0.2 %
+6,606,Santa Rosa,Oratorio,Extranjera(o),261,1.0 %
+6,606,Santa Rosa,Oratorio,Garífuna,18,0.1 %
+6,606,Santa Rosa,Oratorio,Ladina(o),23891,95.7 %
+6,606,Santa Rosa,Oratorio,Maya,330,1.3 %
+6,606,Santa Rosa,Oratorio,Xinka,409,1.6 %
+6,607,Santa Rosa,San Juan Tecuaco,Afrodescendiente / Creole / Afromestizo,10,0.1 %
+6,607,Santa Rosa,San Juan Tecuaco,Extranjera(o),10,0.1 %
+6,607,Santa Rosa,San Juan Tecuaco,Garífuna,29,0.3 %
+6,607,Santa Rosa,San Juan Tecuaco,Ladina(o),6414,63.4 %
+6,607,Santa Rosa,San Juan Tecuaco,Maya,54,0.5 %
+6,607,Santa Rosa,San Juan Tecuaco,Xinka,3605,35.6 %
+6,608,Santa Rosa,Chiquimulilla,Afrodescendiente / Creole / Afromestizo,197,0.4 %
+6,608,Santa Rosa,Chiquimulilla,Extranjera(o),217,0.4 %
+6,608,Santa Rosa,Chiquimulilla,Garífuna,79,0.1 %
+6,608,Santa Rosa,Chiquimulilla,Ladina(o),49314,91.8 %
+6,608,Santa Rosa,Chiquimulilla,Maya,787,1.5 %
+6,608,Santa Rosa,Chiquimulilla,Xinka,3133,5.8 %
+6,609,Santa Rosa,Taxisco,Afrodescendiente / Creole / Afromestizo,46,0.2 %
+6,609,Santa Rosa,Taxisco,Extranjera(o),64,0.2 %
+6,609,Santa Rosa,Taxisco,Garífuna,33,0.1 %
+6,609,Santa Rosa,Taxisco,Ladina(o),28630,95.9 %
+6,609,Santa Rosa,Taxisco,Maya,404,1.4 %
+6,609,Santa Rosa,Taxisco,Xinka,669,2.2 %
+6,610,Santa Rosa,Santa María Ixhuatán,Afrodescendiente / Creole / Afromestizo,25,0.1 %
+6,610,Santa Rosa,Santa María Ixhuatán,Extranjera(o),5,0.0 %
+6,610,Santa Rosa,Santa María Ixhuatán,Garífuna,20,0.1 %
+6,610,Santa Rosa,Santa María Ixhuatán,Ladina(o),21643,90.9 %
+6,610,Santa Rosa,Santa María Ixhuatán,Maya,415,1.7 %
+6,610,Santa Rosa,Santa María Ixhuatán,Xinka,1693,7.1 %
+6,611,Santa Rosa,Guazacapán,Afrodescendiente / Creole / Afromestizo,110,0.6 %
+6,611,Santa Rosa,Guazacapán,Extranjera(o),63,0.3 %
+6,611,Santa Rosa,Guazacapán,Garífuna,17,0.1 %
+6,611,Santa Rosa,Guazacapán,Ladina(o),14212,75.4 %
+6,611,Santa Rosa,Guazacapán,Maya,177,0.9 %
+6,611,Santa Rosa,Guazacapán,Xinka,4276,22.7 %
+6,612,Santa Rosa,Santa Cruz Naranjo,Afrodescendiente / Creole / Afromestizo,30,0.2 %
+6,612,Santa Rosa,Santa Cruz Naranjo,Extranjera(o),36,0.2 %
+6,612,Santa Rosa,Santa Cruz Naranjo,Garífuna,24,0.1 %
+6,612,Santa Rosa,Santa Cruz Naranjo,Ladina(o),14960,91.3 %
+6,612,Santa Rosa,Santa Cruz Naranjo,Maya,659,4.0 %
+6,612,Santa Rosa,Santa Cruz Naranjo,Xinka,676,4.1 %
+6,613,Santa Rosa,Pueblo Nuevo Viñas,Afrodescendiente / Creole / Afromestizo,8,0.0 %
+6,613,Santa Rosa,Pueblo Nuevo Viñas,Extranjera(o),31,0.1 %
+6,613,Santa Rosa,Pueblo Nuevo Viñas,Garífuna,33,0.1 %
+6,613,Santa Rosa,Pueblo Nuevo Viñas,Ladina(o),24801,97.1 %
+6,613,Santa Rosa,Pueblo Nuevo Viñas,Maya,453,1.8 %
+6,613,Santa Rosa,Pueblo Nuevo Viñas,Xinka,203,0.8 %
+6,614,Santa Rosa,Nueva Santa Rosa,Afrodescendiente / Creole / Afromestizo,127,0.3 %
+6,614,Santa Rosa,Nueva Santa Rosa,Extranjera(o),73,0.2 %
+6,614,Santa Rosa,Nueva Santa Rosa,Garífuna,56,0.2 %
+6,614,Santa Rosa,Nueva Santa Rosa,Ladina(o),18277,50.1 %
+6,614,Santa Rosa,Nueva Santa Rosa,Maya,874,2.4 %
+6,614,Santa Rosa,Nueva Santa Rosa,Xinka,17047,46.8 %
+7,701,Sololá,Sololá,Afrodescendiente / Creole / Afromestizo,57,0.1 %
+7,701,Sololá,Sololá,Extranjera(o),28,0.0 %
+7,701,Sololá,Sololá,Garífuna,50,0.1 %
+7,701,Sololá,Sololá,Ladina(o),4705,5.3 %
+7,701,Sololá,Sololá,Maya,83767,94.5 %
+7,701,Sololá,Sololá,Xinka,5,0.0 %
+7,702,Sololá,San José Chacayá,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+7,702,Sololá,San José Chacayá,Extranjera(o),1,0.0 %
+7,702,Sololá,San José Chacayá,Garífuna,4,0.1 %
+7,702,Sololá,San José Chacayá,Ladina(o),136,3.3 %
+7,702,Sololá,San José Chacayá,Maya,3925,96.5 %
+7,702,Sololá,San José Chacayá,Xinka,0,0.0 %
+7,703,Sololá,Santa María Visitación,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+7,703,Sololá,Santa María Visitación,Extranjera(o),3,0.1 %
+7,703,Sololá,Santa María Visitación,Garífuna,4,0.2 %
+7,703,Sololá,Santa María Visitación,Ladina(o),40,1.7 %
+7,703,Sololá,Santa María Visitación,Maya,2322,98.0 %
+7,703,Sololá,Santa María Visitación,Xinka,0,0.0 %
+7,704,Sololá,Santa Lucía Utatlán,Afrodescendiente / Creole / Afromestizo,76,0.4 %
+7,704,Sololá,Santa Lucía Utatlán,Extranjera(o),7,0.0 %
+7,704,Sololá,Santa Lucía Utatlán,Garífuna,6,0.0 %
+7,704,Sololá,Santa Lucía Utatlán,Ladina(o),568,2.7 %
+7,704,Sololá,Santa Lucía Utatlán,Maya,20623,96.9 %
+7,704,Sololá,Santa Lucía Utatlán,Xinka,4,0.0 %
+7,705,Sololá,Nahualá,Afrodescendiente / Creole / Afromestizo,22,0.0 %
+7,705,Sololá,Nahualá,Extranjera(o),4,0.0 %
+7,705,Sololá,Nahualá,Garífuna,48,0.1 %
+7,705,Sololá,Nahualá,Ladina(o),82,0.1 %
+7,705,Sololá,Nahualá,Maya,75274,99.8 %
+7,705,Sololá,Nahualá,Xinka,0,0.0 %
+7,706,Sololá,Santa Catarina Ixtahuacán,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+7,706,Sololá,Santa Catarina Ixtahuacán,Extranjera(o),1,0.0 %
+7,706,Sololá,Santa Catarina Ixtahuacán,Garífuna,25,0.0 %
+7,706,Sololá,Santa Catarina Ixtahuacán,Ladina(o),113,0.2 %
+7,706,Sololá,Santa Catarina Ixtahuacán,Maya,56838,99.7 %
+7,706,Sololá,Santa Catarina Ixtahuacán,Xinka,2,0.0 %
+7,707,Sololá,Santa Clara La Laguna,Afrodescendiente / Creole / Afromestizo,6,0.1 %
+7,707,Sololá,Santa Clara La Laguna,Extranjera(o),3,0.0 %
+7,707,Sololá,Santa Clara La Laguna,Garífuna,6,0.1 %
+7,707,Sololá,Santa Clara La Laguna,Ladina(o),101,1.1 %
+7,707,Sololá,Santa Clara La Laguna,Maya,9289,98.8 %
+7,707,Sololá,Santa Clara La Laguna,Xinka,0,0.0 %
+7,708,Sololá,Concepción,Afrodescendiente / Creole / Afromestizo,6,0.1 %
+7,708,Sololá,Concepción,Extranjera(o),0,0.0 %
+7,708,Sololá,Concepción,Garífuna,4,0.1 %
+7,708,Sololá,Concepción,Ladina(o),12,0.2 %
+7,708,Sololá,Concepción,Maya,6578,99.7 %
+7,708,Sololá,Concepción,Xinka,1,0.0 %
+7,709,Sololá,San Andrés Semetabaj,Afrodescendiente / Creole / Afromestizo,73,0.6 %
+7,709,Sololá,San Andrés Semetabaj,Extranjera(o),17,0.1 %
+7,709,Sololá,San Andrés Semetabaj,Garífuna,22,0.2 %
+7,709,Sololá,San Andrés Semetabaj,Ladina(o),899,6.8 %
+7,709,Sololá,San Andrés Semetabaj,Maya,12129,92.3 %
+7,709,Sololá,San Andrés Semetabaj,Xinka,2,0.0 %
+7,710,Sololá,Panajachel,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+7,710,Sololá,Panajachel,Extranjera(o),195,1.3 %
+7,710,Sololá,Panajachel,Garífuna,20,0.1 %
+7,710,Sololá,Panajachel,Ladina(o),3345,22.2 %
+7,710,Sololá,Panajachel,Maya,11498,76.3 %
+7,710,Sololá,Panajachel,Xinka,13,0.1 %
+7,711,Sololá,Santa Catarina Palopó,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+7,711,Sololá,Santa Catarina Palopó,Extranjera(o),7,0.2 %
+7,711,Sololá,Santa Catarina Palopó,Garífuna,1,0.0 %
+7,711,Sololá,Santa Catarina Palopó,Ladina(o),3,0.1 %
+7,711,Sololá,Santa Catarina Palopó,Maya,3913,99.7 %
+7,711,Sololá,Santa Catarina Palopó,Xinka,0,0.0 %
+7,712,Sololá,San Antonio Palopó,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+7,712,Sololá,San Antonio Palopó,Extranjera(o),11,0.1 %
+7,712,Sololá,San Antonio Palopó,Garífuna,0,0.0 %
+7,712,Sololá,San Antonio Palopó,Ladina(o),735,5.1 %
+7,712,Sololá,San Antonio Palopó,Maya,13690,94.8 %
+7,712,Sololá,San Antonio Palopó,Xinka,1,0.0 %
+7,713,Sololá,San Lucas Tolimán,Afrodescendiente / Creole / Afromestizo,36,0.1 %
+7,713,Sololá,San Lucas Tolimán,Extranjera(o),12,0.0 %
+7,713,Sololá,San Lucas Tolimán,Garífuna,17,0.1 %
+7,713,Sololá,San Lucas Tolimán,Ladina(o),2002,6.7 %
+7,713,Sololá,San Lucas Tolimán,Maya,27703,93.1 %
+7,713,Sololá,San Lucas Tolimán,Xinka,2,0.0 %
+7,714,Sololá,Santa Cruz La Laguna,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+7,714,Sololá,Santa Cruz La Laguna,Extranjera(o),21,0.4 %
+7,714,Sololá,Santa Cruz La Laguna,Garífuna,9,0.2 %
+7,714,Sololá,Santa Cruz La Laguna,Ladina(o),7,0.1 %
+7,714,Sololá,Santa Cruz La Laguna,Maya,5781,99.3 %
+7,714,Sololá,Santa Cruz La Laguna,Xinka,1,0.0 %
+7,715,Sololá,San Pablo La Laguna,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+7,715,Sololá,San Pablo La Laguna,Extranjera(o),6,0.1 %
+7,715,Sololá,San Pablo La Laguna,Garífuna,12,0.2 %
+7,715,Sololá,San Pablo La Laguna,Ladina(o),4,0.1 %
+7,715,Sololá,San Pablo La Laguna,Maya,7276,99.7 %
+7,715,Sololá,San Pablo La Laguna,Xinka,0,0.0 %
+7,716,Sololá,San Marcos La Laguna,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+7,716,Sololá,San Marcos La Laguna,Extranjera(o),33,1.3 %
+7,716,Sololá,San Marcos La Laguna,Garífuna,1,0.0 %
+7,716,Sololá,San Marcos La Laguna,Ladina(o),35,1.3 %
+7,716,Sololá,San Marcos La Laguna,Maya,2548,97.4 %
+7,716,Sololá,San Marcos La Laguna,Xinka,0,0.0 %
+7,717,Sololá,San Juan La Laguna,Afrodescendiente / Creole / Afromestizo,45,0.4 %
+7,717,Sololá,San Juan La Laguna,Extranjera(o),8,0.1 %
+7,717,Sololá,San Juan La Laguna,Garífuna,16,0.1 %
+7,717,Sololá,San Juan La Laguna,Ladina(o),115,0.9 %
+7,717,Sololá,San Juan La Laguna,Maya,11978,98.5 %
+7,717,Sololá,San Juan La Laguna,Xinka,0,0.0 %
+7,718,Sololá,San Pedro La Laguna,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+7,718,Sololá,San Pedro La Laguna,Extranjera(o),62,0.6 %
+7,718,Sololá,San Pedro La Laguna,Garífuna,49,0.5 %
+7,718,Sololá,San Pedro La Laguna,Ladina(o),218,2.0 %
+7,718,Sololá,San Pedro La Laguna,Maya,10372,96.9 %
+7,718,Sololá,San Pedro La Laguna,Xinka,3,0.0 %
+7,719,Sololá,Santiago Atitlán,Afrodescendiente / Creole / Afromestizo,31,0.1 %
+7,719,Sololá,Santiago Atitlán,Extranjera(o),56,0.1 %
+7,719,Sololá,Santiago Atitlán,Garífuna,93,0.2 %
+7,719,Sololá,Santiago Atitlán,Ladina(o),905,2.2 %
+7,719,Sololá,Santiago Atitlán,Maya,40791,97.4 %
+7,719,Sololá,Santiago Atitlán,Xinka,1,0.0 %
+8,801,Totonicapán,Totonicapán,Afrodescendiente / Creole / Afromestizo,199,0.2 %
+8,801,Totonicapán,Totonicapán,Extranjera(o),50,0.0 %
+8,801,Totonicapán,Totonicapán,Garífuna,64,0.1 %
+8,801,Totonicapán,Totonicapán,Ladina(o),2825,2.7 %
+8,801,Totonicapán,Totonicapán,Maya,100799,97.0 %
+8,801,Totonicapán,Totonicapán,Xinka,15,0.0 %
+8,802,Totonicapán,San Cristóbal Totonicapán,Afrodescendiente / Creole / Afromestizo,71,0.2 %
+8,802,Totonicapán,San Cristóbal Totonicapán,Extranjera(o),21,0.1 %
+8,802,Totonicapán,San Cristóbal Totonicapán,Garífuna,24,0.1 %
+8,802,Totonicapán,San Cristóbal Totonicapán,Ladina(o),2394,6.6 %
+8,802,Totonicapán,San Cristóbal Totonicapán,Maya,33606,93.0 %
+8,802,Totonicapán,San Cristóbal Totonicapán,Xinka,3,0.0 %
+8,803,Totonicapán,San Francisco El Alto,Afrodescendiente / Creole / Afromestizo,10,0.0 %
+8,803,Totonicapán,San Francisco El Alto,Extranjera(o),14,0.0 %
+8,803,Totonicapán,San Francisco El Alto,Garífuna,34,0.1 %
+8,803,Totonicapán,San Francisco El Alto,Ladina(o),637,1.1 %
+8,803,Totonicapán,San Francisco El Alto,Maya,57182,98.8 %
+8,803,Totonicapán,San Francisco El Alto,Xinka,17,0.0 %
+8,804,Totonicapán,San Andrés Xecul,Afrodescendiente / Creole / Afromestizo,37,0.1 %
+8,804,Totonicapán,San Andrés Xecul,Extranjera(o),9,0.0 %
+8,804,Totonicapán,San Andrés Xecul,Garífuna,24,0.1 %
+8,804,Totonicapán,San Andrés Xecul,Ladina(o),280,1.0 %
+8,804,Totonicapán,San Andrés Xecul,Maya,26633,98.7 %
+8,804,Totonicapán,San Andrés Xecul,Xinka,1,0.0 %
+8,805,Totonicapán,Momostenango,Afrodescendiente / Creole / Afromestizo,38,0.0 %
+8,805,Totonicapán,Momostenango,Extranjera(o),34,0.0 %
+8,805,Totonicapán,Momostenango,Garífuna,66,0.1 %
+8,805,Totonicapán,Momostenango,Ladina(o),1057,1.0 %
+8,805,Totonicapán,Momostenango,Maya,104415,98.9 %
+8,805,Totonicapán,Momostenango,Xinka,7,0.0 %
+8,806,Totonicapán,Santa María Chiquimula,Afrodescendiente / Creole / Afromestizo,17,0.0 %
+8,806,Totonicapán,Santa María Chiquimula,Extranjera(o),8,0.0 %
+8,806,Totonicapán,Santa María Chiquimula,Garífuna,46,0.1 %
+8,806,Totonicapán,Santa María Chiquimula,Ladina(o),108,0.2 %
+8,806,Totonicapán,Santa María Chiquimula,Maya,54829,99.7 %
+8,806,Totonicapán,Santa María Chiquimula,Xinka,5,0.0 %
+8,807,Totonicapán,Santa Lucía La Reforma,Afrodescendiente / Creole / Afromestizo,5,0.0 %
+8,807,Totonicapán,Santa Lucía La Reforma,Extranjera(o),0,0.0 %
+8,807,Totonicapán,Santa Lucía La Reforma,Garífuna,12,0.1 %
+8,807,Totonicapán,Santa Lucía La Reforma,Ladina(o),63,0.3 %
+8,807,Totonicapán,Santa Lucía La Reforma,Maya,22297,99.6 %
+8,807,Totonicapán,Santa Lucía La Reforma,Xinka,1,0.0 %
+8,808,Totonicapán,San Bartolo,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+8,808,Totonicapán,San Bartolo,Extranjera(o),6,0.1 %
+8,808,Totonicapán,San Bartolo,Garífuna,4,0.0 %
+8,808,Totonicapán,San Bartolo,Ladina(o),164,1.5 %
+8,808,Totonicapán,San Bartolo,Maya,10434,98.3 %
+8,808,Totonicapán,San Bartolo,Xinka,0,0.0 %
+9,901,Quetzaltenango,Quetzaltenango,Afrodescendiente / Creole / Afromestizo,237,0.1 %
+9,901,Quetzaltenango,Quetzaltenango,Extranjera(o),843,0.5 %
+9,901,Quetzaltenango,Quetzaltenango,Garífuna,209,0.1 %
+9,901,Quetzaltenango,Quetzaltenango,Ladina(o),95005,52.6 %
+9,901,Quetzaltenango,Quetzaltenango,Maya,84326,46.7 %
+9,901,Quetzaltenango,Quetzaltenango,Xinka,86,0.0 %
+9,902,Quetzaltenango,Salcajá,Afrodescendiente / Creole / Afromestizo,16,0.1 %
+9,902,Quetzaltenango,Salcajá,Extranjera(o),77,0.4 %
+9,902,Quetzaltenango,Salcajá,Garífuna,10,0.1 %
+9,902,Quetzaltenango,Salcajá,Ladina(o),12162,62.6 %
+9,902,Quetzaltenango,Salcajá,Maya,7156,36.8 %
+9,902,Quetzaltenango,Salcajá,Xinka,13,0.1 %
+9,903,Quetzaltenango,Olintepeque,Afrodescendiente / Creole / Afromestizo,79,0.2 %
+9,903,Quetzaltenango,Olintepeque,Extranjera(o),98,0.3 %
+9,903,Quetzaltenango,Olintepeque,Garífuna,36,0.1 %
+9,903,Quetzaltenango,Olintepeque,Ladina(o),8660,24.7 %
+9,903,Quetzaltenango,Olintepeque,Maya,26177,74.7 %
+9,903,Quetzaltenango,Olintepeque,Xinka,10,0.0 %
+9,904,Quetzaltenango,San Carlos Sija,Afrodescendiente / Creole / Afromestizo,53,0.2 %
+9,904,Quetzaltenango,San Carlos Sija,Extranjera(o),16,0.1 %
+9,904,Quetzaltenango,San Carlos Sija,Garífuna,21,0.1 %
+9,904,Quetzaltenango,San Carlos Sija,Ladina(o),17463,57.8 %
+9,904,Quetzaltenango,San Carlos Sija,Maya,12669,41.9 %
+9,904,Quetzaltenango,San Carlos Sija,Xinka,2,0.0 %
+9,905,Quetzaltenango,Sibilia,Afrodescendiente / Creole / Afromestizo,12,0.1 %
+9,905,Quetzaltenango,Sibilia,Extranjera(o),3,0.0 %
+9,905,Quetzaltenango,Sibilia,Garífuna,2,0.0 %
+9,905,Quetzaltenango,Sibilia,Ladina(o),7750,92.2 %
+9,905,Quetzaltenango,Sibilia,Maya,640,7.6 %
+9,905,Quetzaltenango,Sibilia,Xinka,0,0.0 %
+9,906,Quetzaltenango,Cabricán,Afrodescendiente / Creole / Afromestizo,5,0.0 %
+9,906,Quetzaltenango,Cabricán,Extranjera(o),6,0.0 %
+9,906,Quetzaltenango,Cabricán,Garífuna,18,0.1 %
+9,906,Quetzaltenango,Cabricán,Ladina(o),4140,18.0 %
+9,906,Quetzaltenango,Cabricán,Maya,18864,81.9 %
+9,906,Quetzaltenango,Cabricán,Xinka,0,0.0 %
+9,907,Quetzaltenango,Cajolá,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+9,907,Quetzaltenango,Cajolá,Extranjera(o),0,0.0 %
+9,907,Quetzaltenango,Cajolá,Garífuna,7,0.0 %
+9,907,Quetzaltenango,Cajolá,Ladina(o),604,4.0 %
+9,907,Quetzaltenango,Cajolá,Maya,14330,95.9 %
+9,907,Quetzaltenango,Cajolá,Xinka,1,0.0 %
+9,908,Quetzaltenango,San Miguel Sigüila,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+9,908,Quetzaltenango,San Miguel Sigüila,Extranjera(o),5,0.1 %
+9,908,Quetzaltenango,San Miguel Sigüila,Garífuna,7,0.1 %
+9,908,Quetzaltenango,San Miguel Sigüila,Ladina(o),333,4.2 %
+9,908,Quetzaltenango,San Miguel Sigüila,Maya,7544,95.6 %
+9,908,Quetzaltenango,San Miguel Sigüila,Xinka,0,0.0 %
+9,909,Quetzaltenango,San Juan Ostuncalco,Afrodescendiente / Creole / Afromestizo,150,0.3 %
+9,909,Quetzaltenango,San Juan Ostuncalco,Extranjera(o),56,0.1 %
+9,909,Quetzaltenango,San Juan Ostuncalco,Garífuna,49,0.1 %
+9,909,Quetzaltenango,San Juan Ostuncalco,Ladina(o),7331,14.1 %
+9,909,Quetzaltenango,San Juan Ostuncalco,Maya,44236,85.4 %
+9,909,Quetzaltenango,San Juan Ostuncalco,Xinka,6,0.0 %
+9,910,Quetzaltenango,San Mateo,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+9,910,Quetzaltenango,San Mateo,Extranjera(o),35,0.4 %
+9,910,Quetzaltenango,San Mateo,Garífuna,8,0.1 %
+9,910,Quetzaltenango,San Mateo,Ladina(o),5381,68.2 %
+9,910,Quetzaltenango,San Mateo,Maya,2468,31.3 %
+9,910,Quetzaltenango,San Mateo,Xinka,1,0.0 %
+9,911,Quetzaltenango,Concepción Chiquirichapa,Afrodescendiente / Creole / Afromestizo,7,0.0 %
+9,911,Quetzaltenango,Concepción Chiquirichapa,Extranjera(o),8,0.0 %
+9,911,Quetzaltenango,Concepción Chiquirichapa,Garífuna,8,0.0 %
+9,911,Quetzaltenango,Concepción Chiquirichapa,Ladina(o),148,0.9 %
+9,911,Quetzaltenango,Concepción Chiquirichapa,Maya,17170,99.0 %
+9,911,Quetzaltenango,Concepción Chiquirichapa,Xinka,1,0.0 %
+9,912,Quetzaltenango,San Martín Sacatepéquez,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+9,912,Quetzaltenango,San Martín Sacatepéquez,Extranjera(o),23,0.1 %
+9,912,Quetzaltenango,San Martín Sacatepéquez,Garífuna,18,0.1 %
+9,912,Quetzaltenango,San Martín Sacatepéquez,Ladina(o),2798,9.5 %
+9,912,Quetzaltenango,San Martín Sacatepéquez,Maya,26527,90.3 %
+9,912,Quetzaltenango,San Martín Sacatepéquez,Xinka,1,0.0 %
+9,913,Quetzaltenango,Almolonga,Afrodescendiente / Creole / Afromestizo,7,0.0 %
+9,913,Quetzaltenango,Almolonga,Extranjera(o),5,0.0 %
+9,913,Quetzaltenango,Almolonga,Garífuna,7,0.0 %
+9,913,Quetzaltenango,Almolonga,Ladina(o),192,1.2 %
+9,913,Quetzaltenango,Almolonga,Maya,15513,98.7 %
+9,913,Quetzaltenango,Almolonga,Xinka,0,0.0 %
+9,914,Quetzaltenango,Cantel,Afrodescendiente / Creole / Afromestizo,66,0.2 %
+9,914,Quetzaltenango,Cantel,Extranjera(o),57,0.1 %
+9,914,Quetzaltenango,Cantel,Garífuna,40,0.1 %
+9,914,Quetzaltenango,Cantel,Ladina(o),3466,8.2 %
+9,914,Quetzaltenango,Cantel,Maya,38491,91.3 %
+9,914,Quetzaltenango,Cantel,Xinka,22,0.1 %
+9,915,Quetzaltenango,Huitán,Afrodescendiente / Creole / Afromestizo,7,0.1 %
+9,915,Quetzaltenango,Huitán,Extranjera(o),3,0.0 %
+9,915,Quetzaltenango,Huitán,Garífuna,3,0.0 %
+9,915,Quetzaltenango,Huitán,Ladina(o),795,5.9 %
+9,915,Quetzaltenango,Huitán,Maya,12641,94.0 %
+9,915,Quetzaltenango,Huitán,Xinka,1,0.0 %
+9,916,Quetzaltenango,Zunil,Afrodescendiente / Creole / Afromestizo,5,0.0 %
+9,916,Quetzaltenango,Zunil,Extranjera(o),8,0.1 %
+9,916,Quetzaltenango,Zunil,Garífuna,9,0.1 %
+9,916,Quetzaltenango,Zunil,Ladina(o),2355,16.7 %
+9,916,Quetzaltenango,Zunil,Maya,11729,83.1 %
+9,916,Quetzaltenango,Zunil,Xinka,12,0.1 %
+9,917,Quetzaltenango,Colomba,Afrodescendiente / Creole / Afromestizo,21,0.0 %
+9,917,Quetzaltenango,Colomba,Extranjera(o),35,0.1 %
+9,917,Quetzaltenango,Colomba,Garífuna,45,0.1 %
+9,917,Quetzaltenango,Colomba,Ladina(o),46176,97.1 %
+9,917,Quetzaltenango,Colomba,Maya,1266,2.7 %
+9,917,Quetzaltenango,Colomba,Xinka,1,0.0 %
+9,918,Quetzaltenango,San Francisco La Unión,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+9,918,Quetzaltenango,San Francisco La Unión,Extranjera(o),0,0.0 %
+9,918,Quetzaltenango,San Francisco La Unión,Garífuna,6,0.1 %
+9,918,Quetzaltenango,San Francisco La Unión,Ladina(o),69,0.9 %
+9,918,Quetzaltenango,San Francisco La Unión,Maya,7860,99.0 %
+9,918,Quetzaltenango,San Francisco La Unión,Xinka,1,0.0 %
+9,919,Quetzaltenango,El Palmar,Afrodescendiente / Creole / Afromestizo,405,1.4 %
+9,919,Quetzaltenango,El Palmar,Extranjera(o),25,0.1 %
+9,919,Quetzaltenango,El Palmar,Garífuna,32,0.1 %
+9,919,Quetzaltenango,El Palmar,Ladina(o),9531,32.7 %
+9,919,Quetzaltenango,El Palmar,Maya,19137,65.7 %
+9,919,Quetzaltenango,El Palmar,Xinka,2,0.0 %
+9,920,Quetzaltenango,Coatepeque,Afrodescendiente / Creole / Afromestizo,89,0.1 %
+9,920,Quetzaltenango,Coatepeque,Extranjera(o),201,0.2 %
+9,920,Quetzaltenango,Coatepeque,Garífuna,94,0.1 %
+9,920,Quetzaltenango,Coatepeque,Ladina(o),102615,97.3 %
+9,920,Quetzaltenango,Coatepeque,Maya,2380,2.3 %
+9,920,Quetzaltenango,Coatepeque,Xinka,36,0.0 %
+9,921,Quetzaltenango,Génova,Afrodescendiente / Creole / Afromestizo,11,0.0 %
+9,921,Quetzaltenango,Génova,Extranjera(o),34,0.1 %
+9,921,Quetzaltenango,Génova,Garífuna,16,0.0 %
+9,921,Quetzaltenango,Génova,Ladina(o),27084,72.2 %
+9,921,Quetzaltenango,Génova,Maya,10350,27.6 %
+9,921,Quetzaltenango,Génova,Xinka,2,0.0 %
+9,922,Quetzaltenango,Flores Costa Cuca,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+9,922,Quetzaltenango,Flores Costa Cuca,Extranjera(o),17,0.1 %
+9,922,Quetzaltenango,Flores Costa Cuca,Garífuna,7,0.0 %
+9,922,Quetzaltenango,Flores Costa Cuca,Ladina(o),20740,95.9 %
+9,922,Quetzaltenango,Flores Costa Cuca,Maya,860,4.0 %
+9,922,Quetzaltenango,Flores Costa Cuca,Xinka,2,0.0 %
+9,923,Quetzaltenango,La Esperanza,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+9,923,Quetzaltenango,La Esperanza,Extranjera(o),94,0.4 %
+9,923,Quetzaltenango,La Esperanza,Garífuna,14,0.1 %
+9,923,Quetzaltenango,La Esperanza,Ladina(o),9845,44.4 %
+9,923,Quetzaltenango,La Esperanza,Maya,12202,55.0 %
+9,923,Quetzaltenango,La Esperanza,Xinka,5,0.0 %
+9,924,Quetzaltenango,Palestina de Los Altos,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+9,924,Quetzaltenango,Palestina de Los Altos,Extranjera(o),33,0.2 %
+9,924,Quetzaltenango,Palestina de Los Altos,Garífuna,9,0.1 %
+9,924,Quetzaltenango,Palestina de Los Altos,Ladina(o),4207,26.0 %
+9,924,Quetzaltenango,Palestina de Los Altos,Maya,11955,73.8 %
+9,924,Quetzaltenango,Palestina de Los Altos,Xinka,1,0.0 %
+10,1001,Suchitepéquez,Mazatenango,Afrodescendiente / Creole / Afromestizo,562,0.7 %
+10,1001,Suchitepéquez,Mazatenango,Extranjera(o),244,0.3 %
+10,1001,Suchitepéquez,Mazatenango,Garífuna,104,0.1 %
+10,1001,Suchitepéquez,Mazatenango,Ladina(o),66026,85.3 %
+10,1001,Suchitepéquez,Mazatenango,Maya,10444,13.5 %
+10,1001,Suchitepéquez,Mazatenango,Xinka,51,0.1 %
+10,1002,Suchitepéquez,Cuyotenango,Afrodescendiente / Creole / Afromestizo,133,0.4 %
+10,1002,Suchitepéquez,Cuyotenango,Extranjera(o),46,0.1 %
+10,1002,Suchitepéquez,Cuyotenango,Garífuna,30,0.1 %
+10,1002,Suchitepéquez,Cuyotenango,Ladina(o),25737,77.0 %
+10,1002,Suchitepéquez,Cuyotenango,Maya,7470,22.3 %
+10,1002,Suchitepéquez,Cuyotenango,Xinka,20,0.1 %
+10,1003,Suchitepéquez,San Francisco Zapotitlán,Afrodescendiente / Creole / Afromestizo,20,0.1 %
+10,1003,Suchitepéquez,San Francisco Zapotitlán,Extranjera(o),49,0.2 %
+10,1003,Suchitepéquez,San Francisco Zapotitlán,Garífuna,24,0.1 %
+10,1003,Suchitepéquez,San Francisco Zapotitlán,Ladina(o),21141,93.8 %
+10,1003,Suchitepéquez,San Francisco Zapotitlán,Maya,1297,5.8 %
+10,1003,Suchitepéquez,San Francisco Zapotitlán,Xinka,2,0.0 %
+10,1004,Suchitepéquez,San Bernardino,Afrodescendiente / Creole / Afromestizo,13,0.1 %
+10,1004,Suchitepéquez,San Bernardino,Extranjera(o),28,0.2 %
+10,1004,Suchitepéquez,San Bernardino,Garífuna,12,0.1 %
+10,1004,Suchitepéquez,San Bernardino,Ladina(o),5302,33.5 %
+10,1004,Suchitepéquez,San Bernardino,Maya,10478,66.1 %
+10,1004,Suchitepéquez,San Bernardino,Xinka,16,0.1 %
+10,1005,Suchitepéquez,San José El Ídolo,Afrodescendiente / Creole / Afromestizo,82,0.8 %
+10,1005,Suchitepéquez,San José El Ídolo,Extranjera(o),1,0.0 %
+10,1005,Suchitepéquez,San José El Ídolo,Garífuna,7,0.1 %
+10,1005,Suchitepéquez,San José El Ídolo,Ladina(o),8257,80.9 %
+10,1005,Suchitepéquez,San José El Ídolo,Maya,1864,18.3 %
+10,1005,Suchitepéquez,San José El Ídolo,Xinka,1,0.0 %
+10,1006,Suchitepéquez,Santo Domingo Suchitepéquez,Afrodescendiente / Creole / Afromestizo,318,0.8 %
+10,1006,Suchitepéquez,Santo Domingo Suchitepéquez,Extranjera(o),50,0.1 %
+10,1006,Suchitepéquez,Santo Domingo Suchitepéquez,Garífuna,28,0.1 %
+10,1006,Suchitepéquez,Santo Domingo Suchitepéquez,Ladina(o),30783,72.8 %
+10,1006,Suchitepéquez,Santo Domingo Suchitepéquez,Maya,11111,26.3 %
+10,1006,Suchitepéquez,Santo Domingo Suchitepéquez,Xinka,1,0.0 %
+10,1007,Suchitepéquez,San Lorenzo,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+10,1007,Suchitepéquez,San Lorenzo,Extranjera(o),8,0.1 %
+10,1007,Suchitepéquez,San Lorenzo,Garífuna,7,0.1 %
+10,1007,Suchitepéquez,San Lorenzo,Ladina(o),4758,35.8 %
+10,1007,Suchitepéquez,San Lorenzo,Maya,8506,64.0 %
+10,1007,Suchitepéquez,San Lorenzo,Xinka,0,0.0 %
+10,1008,Suchitepéquez,Samayac,Afrodescendiente / Creole / Afromestizo,387,1.6 %
+10,1008,Suchitepéquez,Samayac,Extranjera(o),39,0.2 %
+10,1008,Suchitepéquez,Samayac,Garífuna,38,0.2 %
+10,1008,Suchitepéquez,Samayac,Ladina(o),4024,16.2 %
+10,1008,Suchitepéquez,Samayac,Maya,20293,81.9 %
+10,1008,Suchitepéquez,Samayac,Xinka,9,0.0 %
+10,1009,Suchitepéquez,San Pablo Jocopilas,Afrodescendiente / Creole / Afromestizo,32,0.2 %
+10,1009,Suchitepéquez,San Pablo Jocopilas,Extranjera(o),11,0.1 %
+10,1009,Suchitepéquez,San Pablo Jocopilas,Garífuna,18,0.1 %
+10,1009,Suchitepéquez,San Pablo Jocopilas,Ladina(o),4389,21.5 %
+10,1009,Suchitepéquez,San Pablo Jocopilas,Maya,15983,78.2 %
+10,1009,Suchitepéquez,San Pablo Jocopilas,Xinka,0,0.0 %
+10,1010,Suchitepéquez,San Antonio Suchitepéquez,Afrodescendiente / Creole / Afromestizo,923,1.6 %
+10,1010,Suchitepéquez,San Antonio Suchitepéquez,Extranjera(o),85,0.1 %
+10,1010,Suchitepéquez,San Antonio Suchitepéquez,Garífuna,89,0.2 %
+10,1010,Suchitepéquez,San Antonio Suchitepéquez,Ladina(o),24567,41.5 %
+10,1010,Suchitepéquez,San Antonio Suchitepéquez,Maya,33487,56.6 %
+10,1010,Suchitepéquez,San Antonio Suchitepéquez,Xinka,33,0.1 %
+10,1011,Suchitepéquez,San Miguel Panán,Afrodescendiente / Creole / Afromestizo,537,5.2 %
+10,1011,Suchitepéquez,San Miguel Panán,Extranjera(o),15,0.1 %
+10,1011,Suchitepéquez,San Miguel Panán,Garífuna,24,0.2 %
+10,1011,Suchitepéquez,San Miguel Panán,Ladina(o),1869,18.1 %
+10,1011,Suchitepéquez,San Miguel Panán,Maya,7859,76.2 %
+10,1011,Suchitepéquez,San Miguel Panán,Xinka,16,0.2 %
+10,1012,Suchitepéquez,San Gabriel,Afrodescendiente / Creole / Afromestizo,41,0.6 %
+10,1012,Suchitepéquez,San Gabriel,Extranjera(o),4,0.1 %
+10,1012,Suchitepéquez,San Gabriel,Garífuna,14,0.2 %
+10,1012,Suchitepéquez,San Gabriel,Ladina(o),3940,53.4 %
+10,1012,Suchitepéquez,San Gabriel,Maya,3383,45.8 %
+10,1012,Suchitepéquez,San Gabriel,Xinka,1,0.0 %
+10,1013,Suchitepéquez,Chicacao,Afrodescendiente / Creole / Afromestizo,145,0.2 %
+10,1013,Suchitepéquez,Chicacao,Extranjera(o),15,0.0 %
+10,1013,Suchitepéquez,Chicacao,Garífuna,89,0.1 %
+10,1013,Suchitepéquez,Chicacao,Ladina(o),18004,29.6 %
+10,1013,Suchitepéquez,Chicacao,Maya,42454,69.9 %
+10,1013,Suchitepéquez,Chicacao,Xinka,28,0.0 %
+10,1014,Suchitepéquez,Patulul,Afrodescendiente / Creole / Afromestizo,53,0.1 %
+10,1014,Suchitepéquez,Patulul,Extranjera(o),34,0.1 %
+10,1014,Suchitepéquez,Patulul,Garífuna,41,0.1 %
+10,1014,Suchitepéquez,Patulul,Ladina(o),33446,82.2 %
+10,1014,Suchitepéquez,Patulul,Maya,7102,17.5 %
+10,1014,Suchitepéquez,Patulul,Xinka,7,0.0 %
+10,1015,Suchitepéquez,Santa Bárbara,Afrodescendiente / Creole / Afromestizo,14,0.1 %
+10,1015,Suchitepéquez,Santa Bárbara,Extranjera(o),14,0.1 %
+10,1015,Suchitepéquez,Santa Bárbara,Garífuna,28,0.1 %
+10,1015,Suchitepéquez,Santa Bárbara,Ladina(o),22779,86.5 %
+10,1015,Suchitepéquez,Santa Bárbara,Maya,3498,13.3 %
+10,1015,Suchitepéquez,Santa Bárbara,Xinka,13,0.0 %
+10,1016,Suchitepéquez,San Juan Bautista,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+10,1016,Suchitepéquez,San Juan Bautista,Extranjera(o),4,0.1 %
+10,1016,Suchitepéquez,San Juan Bautista,Garífuna,12,0.2 %
+10,1016,Suchitepéquez,San Juan Bautista,Ladina(o),7170,91.6 %
+10,1016,Suchitepéquez,San Juan Bautista,Maya,640,8.2 %
+10,1016,Suchitepéquez,San Juan Bautista,Xinka,0,0.0 %
+10,1017,Suchitepéquez,Santo Tomás La Unión,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+10,1017,Suchitepéquez,Santo Tomás La Unión,Extranjera(o),8,0.1 %
+10,1017,Suchitepéquez,Santo Tomás La Unión,Garífuna,11,0.1 %
+10,1017,Suchitepéquez,Santo Tomás La Unión,Ladina(o),2333,19.9 %
+10,1017,Suchitepéquez,Santo Tomás La Unión,Maya,9336,79.8 %
+10,1017,Suchitepéquez,Santo Tomás La Unión,Xinka,7,0.1 %
+10,1018,Suchitepéquez,Zunilito,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+10,1018,Suchitepéquez,Zunilito,Extranjera(o),0,0.0 %
+10,1018,Suchitepéquez,Zunilito,Garífuna,3,0.0 %
+10,1018,Suchitepéquez,Zunilito,Ladina(o),7340,88.6 %
+10,1018,Suchitepéquez,Zunilito,Maya,936,11.3 %
+10,1018,Suchitepéquez,Zunilito,Xinka,0,0.0 %
+10,1019,Suchitepéquez,Pueblo Nuevo,Afrodescendiente / Creole / Afromestizo,33,0.3 %
+10,1019,Suchitepéquez,Pueblo Nuevo,Extranjera(o),15,0.1 %
+10,1019,Suchitepéquez,Pueblo Nuevo,Garífuna,10,0.1 %
+10,1019,Suchitepéquez,Pueblo Nuevo,Ladina(o),4749,42.0 %
+10,1019,Suchitepéquez,Pueblo Nuevo,Maya,6507,57.5 %
+10,1019,Suchitepéquez,Pueblo Nuevo,Xinka,1,0.0 %
+10,1020,Suchitepéquez,Río Bravo,Afrodescendiente / Creole / Afromestizo,177,0.6 %
+10,1020,Suchitepéquez,Río Bravo,Extranjera(o),23,0.1 %
+10,1020,Suchitepéquez,Río Bravo,Garífuna,19,0.1 %
+10,1020,Suchitepéquez,Río Bravo,Ladina(o),24470,88.6 %
+10,1020,Suchitepéquez,Río Bravo,Maya,2916,10.6 %
+10,1020,Suchitepéquez,Río Bravo,Xinka,1,0.0 %
+10,1021,Suchitepéquez,San José La Máquina,Afrodescendiente / Creole / Afromestizo,54,0.2 %
+10,1021,Suchitepéquez,San José La Máquina,Extranjera(o),48,0.2 %
+10,1021,Suchitepéquez,San José La Máquina,Garífuna,31,0.1 %
+10,1021,Suchitepéquez,San José La Máquina,Ladina(o),17387,75.4 %
+10,1021,Suchitepéquez,San José La Máquina,Maya,5539,24.0 %
+10,1021,Suchitepéquez,San José La Máquina,Xinka,3,0.0 %
+11,1101,Retalhuleu,Retalhuleu,Afrodescendiente / Creole / Afromestizo,130,0.1 %
+11,1101,Retalhuleu,Retalhuleu,Extranjera(o),171,0.2 %
+11,1101,Retalhuleu,Retalhuleu,Garífuna,69,0.1 %
+11,1101,Retalhuleu,Retalhuleu,Ladina(o),87689,96.9 %
+11,1101,Retalhuleu,Retalhuleu,Maya,2435,2.7 %
+11,1101,Retalhuleu,Retalhuleu,Xinka,11,0.0 %
+11,1102,Retalhuleu,San Sebastián,Afrodescendiente / Creole / Afromestizo,60,0.2 %
+11,1102,Retalhuleu,San Sebastián,Extranjera(o),24,0.1 %
+11,1102,Retalhuleu,San Sebastián,Garífuna,41,0.1 %
+11,1102,Retalhuleu,San Sebastián,Ladina(o),17057,58.5 %
+11,1102,Retalhuleu,San Sebastián,Maya,11984,41.1 %
+11,1102,Retalhuleu,San Sebastián,Xinka,1,0.0 %
+11,1103,Retalhuleu,Santa Cruz Muluá,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+11,1103,Retalhuleu,Santa Cruz Muluá,Extranjera(o),8,0.1 %
+11,1103,Retalhuleu,Santa Cruz Muluá,Garífuna,25,0.2 %
+11,1103,Retalhuleu,Santa Cruz Muluá,Ladina(o),13060,96.4 %
+11,1103,Retalhuleu,Santa Cruz Muluá,Maya,448,3.3 %
+11,1103,Retalhuleu,Santa Cruz Muluá,Xinka,0,0.0 %
+11,1104,Retalhuleu,San Martín Zapotitlán,Afrodescendiente / Creole / Afromestizo,61,0.5 %
+11,1104,Retalhuleu,San Martín Zapotitlán,Extranjera(o),20,0.2 %
+11,1104,Retalhuleu,San Martín Zapotitlán,Garífuna,7,0.1 %
+11,1104,Retalhuleu,San Martín Zapotitlán,Ladina(o),11408,94.4 %
+11,1104,Retalhuleu,San Martín Zapotitlán,Maya,587,4.9 %
+11,1104,Retalhuleu,San Martín Zapotitlán,Xinka,0,0.0 %
+11,1105,Retalhuleu,San Felipe,Afrodescendiente / Creole / Afromestizo,114,0.5 %
+11,1105,Retalhuleu,San Felipe,Extranjera(o),31,0.1 %
+11,1105,Retalhuleu,San Felipe,Garífuna,15,0.1 %
+11,1105,Retalhuleu,San Felipe,Ladina(o),22057,90.2 %
+11,1105,Retalhuleu,San Felipe,Maya,2229,9.1 %
+11,1105,Retalhuleu,San Felipe,Xinka,0,0.0 %
+11,1106,Retalhuleu,San Andrés Villa Seca,Afrodescendiente / Creole / Afromestizo,250,0.5 %
+11,1106,Retalhuleu,San Andrés Villa Seca,Extranjera(o),43,0.1 %
+11,1106,Retalhuleu,San Andrés Villa Seca,Garífuna,30,0.1 %
+11,1106,Retalhuleu,San Andrés Villa Seca,Ladina(o),35272,73.8 %
+11,1106,Retalhuleu,San Andrés Villa Seca,Maya,12189,25.5 %
+11,1106,Retalhuleu,San Andrés Villa Seca,Xinka,36,0.1 %
+11,1107,Retalhuleu,Champerico,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+11,1107,Retalhuleu,Champerico,Extranjera(o),32,0.1 %
+11,1107,Retalhuleu,Champerico,Garífuna,25,0.1 %
+11,1107,Retalhuleu,Champerico,Ladina(o),28355,86.4 %
+11,1107,Retalhuleu,Champerico,Maya,4390,13.4 %
+11,1107,Retalhuleu,Champerico,Xinka,7,0.0 %
+11,1108,Retalhuleu,Nuevo San Carlos,Afrodescendiente / Creole / Afromestizo,31,0.1 %
+11,1108,Retalhuleu,Nuevo San Carlos,Extranjera(o),37,0.1 %
+11,1108,Retalhuleu,Nuevo San Carlos,Garífuna,25,0.1 %
+11,1108,Retalhuleu,Nuevo San Carlos,Ladina(o),38696,97.8 %
+11,1108,Retalhuleu,Nuevo San Carlos,Maya,774,2.0 %
+11,1108,Retalhuleu,Nuevo San Carlos,Xinka,2,0.0 %
+11,1109,Retalhuleu,El Asintal,Afrodescendiente / Creole / Afromestizo,28,0.1 %
+11,1109,Retalhuleu,El Asintal,Extranjera(o),15,0.0 %
+11,1109,Retalhuleu,El Asintal,Garífuna,21,0.1 %
+11,1109,Retalhuleu,El Asintal,Ladina(o),22982,62.3 %
+11,1109,Retalhuleu,El Asintal,Maya,13835,37.5 %
+11,1109,Retalhuleu,El Asintal,Xinka,1,0.0 %
+12,1201,San Marcos,San Marcos,Afrodescendiente / Creole / Afromestizo,25,0.1 %
+12,1201,San Marcos,San Marcos,Extranjera(o),80,0.2 %
+12,1201,San Marcos,San Marcos,Garífuna,69,0.1 %
+12,1201,San Marcos,San Marcos,Ladina(o),45207,96.1 %
+12,1201,San Marcos,San Marcos,Maya,1671,3.6 %
+12,1201,San Marcos,San Marcos,Xinka,11,0.0 %
+12,1202,San Marcos,San Pedro Sacatepéquez,Afrodescendiente / Creole / Afromestizo,29,0.0 %
+12,1202,San Marcos,San Pedro Sacatepéquez,Extranjera(o),118,0.1 %
+12,1202,San Marcos,San Pedro Sacatepéquez,Garífuna,58,0.1 %
+12,1202,San Marcos,San Pedro Sacatepéquez,Ladina(o),67562,85.4 %
+12,1202,San Marcos,San Pedro Sacatepéquez,Maya,11387,14.4 %
+12,1202,San Marcos,San Pedro Sacatepéquez,Xinka,4,0.0 %
+12,1203,San Marcos,San Antonio Sacatepéquez,Afrodescendiente / Creole / Afromestizo,9,0.0 %
+12,1203,San Marcos,San Antonio Sacatepéquez,Extranjera(o),25,0.1 %
+12,1203,San Marcos,San Antonio Sacatepéquez,Garífuna,21,0.1 %
+12,1203,San Marcos,San Antonio Sacatepéquez,Ladina(o),11175,58.5 %
+12,1203,San Marcos,San Antonio Sacatepéquez,Maya,7866,41.2 %
+12,1203,San Marcos,San Antonio Sacatepéquez,Xinka,4,0.0 %
+12,1204,San Marcos,Comitancillo,Afrodescendiente / Creole / Afromestizo,21,0.0 %
+12,1204,San Marcos,Comitancillo,Extranjera(o),4,0.0 %
+12,1204,San Marcos,Comitancillo,Garífuna,44,0.1 %
+12,1204,San Marcos,Comitancillo,Ladina(o),354,0.6 %
+12,1204,San Marcos,Comitancillo,Maya,59062,99.3 %
+12,1204,San Marcos,Comitancillo,Xinka,4,0.0 %
+12,1205,San Marcos,San Miguel Ixtahuacán,Afrodescendiente / Creole / Afromestizo,54,0.1 %
+12,1205,San Marcos,San Miguel Ixtahuacán,Extranjera(o),7,0.0 %
+12,1205,San Marcos,San Miguel Ixtahuacán,Garífuna,23,0.0 %
+12,1205,San Marcos,San Miguel Ixtahuacán,Ladina(o),779,1.6 %
+12,1205,San Marcos,San Miguel Ixtahuacán,Maya,46437,98.2 %
+12,1205,San Marcos,San Miguel Ixtahuacán,Xinka,1,0.0 %
+12,1206,San Marcos,Concepción Tutuapa,Afrodescendiente / Creole / Afromestizo,12,0.0 %
+12,1206,San Marcos,Concepción Tutuapa,Extranjera(o),22,0.0 %
+12,1206,San Marcos,Concepción Tutuapa,Garífuna,39,0.1 %
+12,1206,San Marcos,Concepción Tutuapa,Ladina(o),1755,2.6 %
+12,1206,San Marcos,Concepción Tutuapa,Maya,66318,97.3 %
+12,1206,San Marcos,Concepción Tutuapa,Xinka,2,0.0 %
+12,1207,San Marcos,Tacaná,Afrodescendiente / Creole / Afromestizo,44,0.1 %
+12,1207,San Marcos,Tacaná,Extranjera(o),95,0.1 %
+12,1207,San Marcos,Tacaná,Garífuna,89,0.1 %
+12,1207,San Marcos,Tacaná,Ladina(o),68455,90.3 %
+12,1207,San Marcos,Tacaná,Maya,7099,9.4 %
+12,1207,San Marcos,Tacaná,Xinka,6,0.0 %
+12,1208,San Marcos,Sibinal,Afrodescendiente / Creole / Afromestizo,11,0.1 %
+12,1208,San Marcos,Sibinal,Extranjera(o),10,0.1 %
+12,1208,San Marcos,Sibinal,Garífuna,7,0.0 %
+12,1208,San Marcos,Sibinal,Ladina(o),14493,92.1 %
+12,1208,San Marcos,Sibinal,Maya,1212,7.7 %
+12,1208,San Marcos,Sibinal,Xinka,0,0.0 %
+12,1209,San Marcos,Tajumulco,Afrodescendiente / Creole / Afromestizo,26,0.1 %
+12,1209,San Marcos,Tajumulco,Extranjera(o),1,0.0 %
+12,1209,San Marcos,Tajumulco,Garífuna,28,0.1 %
+12,1209,San Marcos,Tajumulco,Ladina(o),2005,3.9 %
+12,1209,San Marcos,Tajumulco,Maya,48843,95.9 %
+12,1209,San Marcos,Tajumulco,Xinka,4,0.0 %
+12,1210,San Marcos,Tejutla,Afrodescendiente / Creole / Afromestizo,30,0.1 %
+12,1210,San Marcos,Tejutla,Extranjera(o),21,0.1 %
+12,1210,San Marcos,Tejutla,Garífuna,36,0.1 %
+12,1210,San Marcos,Tejutla,Ladina(o),34255,88.6 %
+12,1210,San Marcos,Tejutla,Maya,4327,11.2 %
+12,1210,San Marcos,Tejutla,Xinka,0,0.0 %
+12,1211,San Marcos,San Rafael Pie de la Cuesta,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+12,1211,San Marcos,San Rafael Pie de la Cuesta,Extranjera(o),24,0.1 %
+12,1211,San Marcos,San Rafael Pie de la Cuesta,Garífuna,14,0.1 %
+12,1211,San Marcos,San Rafael Pie de la Cuesta,Ladina(o),16782,97.9 %
+12,1211,San Marcos,San Rafael Pie de la Cuesta,Maya,309,1.8 %
+12,1211,San Marcos,San Rafael Pie de la Cuesta,Xinka,9,0.1 %
+12,1212,San Marcos,Nuevo Progreso,Afrodescendiente / Creole / Afromestizo,7,0.0 %
+12,1212,San Marcos,Nuevo Progreso,Extranjera(o),19,0.1 %
+12,1212,San Marcos,Nuevo Progreso,Garífuna,33,0.1 %
+12,1212,San Marcos,Nuevo Progreso,Ladina(o),29477,98.0 %
+12,1212,San Marcos,Nuevo Progreso,Maya,530,1.8 %
+12,1212,San Marcos,Nuevo Progreso,Xinka,1,0.0 %
+12,1213,San Marcos,El Tumbador,Afrodescendiente / Creole / Afromestizo,15,0.0 %
+12,1213,San Marcos,El Tumbador,Extranjera(o),23,0.1 %
+12,1213,San Marcos,El Tumbador,Garífuna,27,0.1 %
+12,1213,San Marcos,El Tumbador,Ladina(o),42936,96.7 %
+12,1213,San Marcos,El Tumbador,Maya,1392,3.1 %
+12,1213,San Marcos,El Tumbador,Xinka,2,0.0 %
+12,1214,San Marcos,El Rodeo,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+12,1214,San Marcos,El Rodeo,Extranjera(o),6,0.0 %
+12,1214,San Marcos,El Rodeo,Garífuna,9,0.1 %
+12,1214,San Marcos,El Rodeo,Ladina(o),17717,99.1 %
+12,1214,San Marcos,El Rodeo,Maya,146,0.8 %
+12,1214,San Marcos,El Rodeo,Xinka,1,0.0 %
+12,1215,San Marcos,Malacatán,Afrodescendiente / Creole / Afromestizo,52,0.1 %
+12,1215,San Marcos,Malacatán,Extranjera(o),70,0.1 %
+12,1215,San Marcos,Malacatán,Garífuna,44,0.0 %
+12,1215,San Marcos,Malacatán,Ladina(o),88432,95.3 %
+12,1215,San Marcos,Malacatán,Maya,4210,4.5 %
+12,1215,San Marcos,Malacatán,Xinka,8,0.0 %
+12,1216,San Marcos,Catarina,Afrodescendiente / Creole / Afromestizo,18,0.1 %
+12,1216,San Marcos,Catarina,Extranjera(o),44,0.1 %
+12,1216,San Marcos,Catarina,Garífuna,18,0.1 %
+12,1216,San Marcos,Catarina,Ladina(o),28943,96.4 %
+12,1216,San Marcos,Catarina,Maya,990,3.3 %
+12,1216,San Marcos,Catarina,Xinka,1,0.0 %
+12,1217,San Marcos,Ayutla,Afrodescendiente / Creole / Afromestizo,10,0.0 %
+12,1217,San Marcos,Ayutla,Extranjera(o),167,0.5 %
+12,1217,San Marcos,Ayutla,Garífuna,22,0.1 %
+12,1217,San Marcos,Ayutla,Ladina(o),36191,97.7 %
+12,1217,San Marcos,Ayutla,Maya,656,1.8 %
+12,1217,San Marcos,Ayutla,Xinka,3,0.0 %
+12,1218,San Marcos,Ocós,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+12,1218,San Marcos,Ocós,Extranjera(o),14,0.1 %
+12,1218,San Marcos,Ocós,Garífuna,7,0.1 %
+12,1218,San Marcos,Ocós,Ladina(o),10742,99.1 %
+12,1218,San Marcos,Ocós,Maya,75,0.7 %
+12,1218,San Marcos,Ocós,Xinka,1,0.0 %
+12,1219,San Marcos,San Pablo,Afrodescendiente / Creole / Afromestizo,35,0.1 %
+12,1219,San Marcos,San Pablo,Extranjera(o),77,0.2 %
+12,1219,San Marcos,San Pablo,Garífuna,27,0.1 %
+12,1219,San Marcos,San Pablo,Ladina(o),45736,93.5 %
+12,1219,San Marcos,San Pablo,Maya,3058,6.2 %
+12,1219,San Marcos,San Pablo,Xinka,4,0.0 %
+12,1220,San Marcos,El Quetzal,Afrodescendiente / Creole / Afromestizo,5,0.0 %
+12,1220,San Marcos,El Quetzal,Extranjera(o),8,0.0 %
+12,1220,San Marcos,El Quetzal,Garífuna,15,0.1 %
+12,1220,San Marcos,El Quetzal,Ladina(o),23398,99.5 %
+12,1220,San Marcos,El Quetzal,Maya,85,0.4 %
+12,1220,San Marcos,El Quetzal,Xinka,0,0.0 %
+12,1221,San Marcos,La Reforma,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+12,1221,San Marcos,La Reforma,Extranjera(o),11,0.1 %
+12,1221,San Marcos,La Reforma,Garífuna,15,0.1 %
+12,1221,San Marcos,La Reforma,Ladina(o),17826,99.5 %
+12,1221,San Marcos,La Reforma,Maya,65,0.4 %
+12,1221,San Marcos,La Reforma,Xinka,0,0.0 %
+12,1222,San Marcos,Pajapita,Afrodescendiente / Creole / Afromestizo,11,0.1 %
+12,1222,San Marcos,Pajapita,Extranjera(o),40,0.2 %
+12,1222,San Marcos,Pajapita,Garífuna,12,0.1 %
+12,1222,San Marcos,Pajapita,Ladina(o),21528,99.1 %
+12,1222,San Marcos,Pajapita,Maya,134,0.6 %
+12,1222,San Marcos,Pajapita,Xinka,0,0.0 %
+12,1223,San Marcos,Ixchiguán,Afrodescendiente / Creole / Afromestizo,12,0.1 %
+12,1223,San Marcos,Ixchiguán,Extranjera(o),38,0.2 %
+12,1223,San Marcos,Ixchiguán,Garífuna,13,0.1 %
+12,1223,San Marcos,Ixchiguán,Ladina(o),2141,9.6 %
+12,1223,San Marcos,Ixchiguán,Maya,20170,90.1 %
+12,1223,San Marcos,Ixchiguán,Xinka,1,0.0 %
+12,1224,San Marcos,San José Ojetenam,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+12,1224,San Marcos,San José Ojetenam,Extranjera(o),20,0.1 %
+12,1224,San Marcos,San José Ojetenam,Garífuna,18,0.1 %
+12,1224,San Marcos,San José Ojetenam,Ladina(o),17353,91.3 %
+12,1224,San Marcos,San José Ojetenam,Maya,1612,8.5 %
+12,1224,San Marcos,San José Ojetenam,Xinka,0,0.0 %
+12,1225,San Marcos,San Cristóbal Cucho,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+12,1225,San Marcos,San Cristóbal Cucho,Extranjera(o),25,0.2 %
+12,1225,San Marcos,San Cristóbal Cucho,Garífuna,6,0.0 %
+12,1225,San Marcos,San Cristóbal Cucho,Ladina(o),14880,89.5 %
+12,1225,San Marcos,San Cristóbal Cucho,Maya,1707,10.3 %
+12,1225,San Marcos,San Cristóbal Cucho,Xinka,0,0.0 %
+12,1226,San Marcos,Sipacapa,Afrodescendiente / Creole / Afromestizo,8,0.0 %
+12,1226,San Marcos,Sipacapa,Extranjera(o),10,0.0 %
+12,1226,San Marcos,Sipacapa,Garífuna,8,0.0 %
+12,1226,San Marcos,Sipacapa,Ladina(o),1648,8.2 %
+12,1226,San Marcos,Sipacapa,Maya,18498,91.7 %
+12,1226,San Marcos,Sipacapa,Xinka,6,0.0 %
+12,1227,San Marcos,Esquipulas Palo Gordo,Afrodescendiente / Creole / Afromestizo,29,0.2 %
+12,1227,San Marcos,Esquipulas Palo Gordo,Extranjera(o),14,0.1 %
+12,1227,San Marcos,Esquipulas Palo Gordo,Garífuna,20,0.2 %
+12,1227,San Marcos,Esquipulas Palo Gordo,Ladina(o),12380,96.0 %
+12,1227,San Marcos,Esquipulas Palo Gordo,Maya,447,3.5 %
+12,1227,San Marcos,Esquipulas Palo Gordo,Xinka,2,0.0 %
+12,1228,San Marcos,Río Blanco,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+12,1228,San Marcos,Río Blanco,Extranjera(o),7,0.1 %
+12,1228,San Marcos,Río Blanco,Garífuna,5,0.1 %
+12,1228,San Marcos,Río Blanco,Ladina(o),3355,63.1 %
+12,1228,San Marcos,Río Blanco,Maya,1951,36.7 %
+12,1228,San Marcos,Río Blanco,Xinka,0,0.0 %
+12,1229,San Marcos,San Lorenzo,Afrodescendiente / Creole / Afromestizo,15,0.1 %
+12,1229,San Marcos,San Lorenzo,Extranjera(o),4,0.0 %
+12,1229,San Marcos,San Lorenzo,Garífuna,11,0.1 %
+12,1229,San Marcos,San Lorenzo,Ladina(o),5420,41.3 %
+12,1229,San Marcos,San Lorenzo,Maya,7675,58.5 %
+12,1229,San Marcos,San Lorenzo,Xinka,0,0.0 %
+12,1230,San Marcos,La Blanca,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+12,1230,San Marcos,La Blanca,Extranjera(o),40,0.1 %
+12,1230,San Marcos,La Blanca,Garífuna,19,0.1 %
+12,1230,San Marcos,La Blanca,Ladina(o),28887,99.2 %
+12,1230,San Marcos,La Blanca,Maya,161,0.6 %
+12,1230,San Marcos,La Blanca,Xinka,1,0.0 %
+13,1301,Huehuetenango,Huehuetenango,Afrodescendiente / Creole / Afromestizo,56,0.0 %
+13,1301,Huehuetenango,Huehuetenango,Extranjera(o),310,0.3 %
+13,1301,Huehuetenango,Huehuetenango,Garífuna,119,0.1 %
+13,1301,Huehuetenango,Huehuetenango,Ladina(o),108575,92.2 %
+13,1301,Huehuetenango,Huehuetenango,Maya,8742,7.4 %
+13,1301,Huehuetenango,Huehuetenango,Xinka,16,0.0 %
+13,1302,Huehuetenango,Chiantla,Afrodescendiente / Creole / Afromestizo,156,0.2 %
+13,1302,Huehuetenango,Chiantla,Extranjera(o),51,0.1 %
+13,1302,Huehuetenango,Chiantla,Garífuna,92,0.1 %
+13,1302,Huehuetenango,Chiantla,Ladina(o),78923,90.3 %
+13,1302,Huehuetenango,Chiantla,Maya,8223,9.4 %
+13,1302,Huehuetenango,Chiantla,Xinka,2,0.0 %
+13,1303,Huehuetenango,Malacatancito,Afrodescendiente / Creole / Afromestizo,11,0.1 %
+13,1303,Huehuetenango,Malacatancito,Extranjera(o),12,0.1 %
+13,1303,Huehuetenango,Malacatancito,Garífuna,17,0.1 %
+13,1303,Huehuetenango,Malacatancito,Ladina(o),13362,69.8 %
+13,1303,Huehuetenango,Malacatancito,Maya,5752,30.0 %
+13,1303,Huehuetenango,Malacatancito,Xinka,1,0.0 %
+13,1304,Huehuetenango,Cuilco,Afrodescendiente / Creole / Afromestizo,34,0.1 %
+13,1304,Huehuetenango,Cuilco,Extranjera(o),38,0.1 %
+13,1304,Huehuetenango,Cuilco,Garífuna,58,0.1 %
+13,1304,Huehuetenango,Cuilco,Ladina(o),48372,80.1 %
+13,1304,Huehuetenango,Cuilco,Maya,11890,19.7 %
+13,1304,Huehuetenango,Cuilco,Xinka,3,0.0 %
+13,1305,Huehuetenango,Nentón,Afrodescendiente / Creole / Afromestizo,7,0.0 %
+13,1305,Huehuetenango,Nentón,Extranjera(o),35,0.1 %
+13,1305,Huehuetenango,Nentón,Garífuna,25,0.1 %
+13,1305,Huehuetenango,Nentón,Ladina(o),9998,21.9 %
+13,1305,Huehuetenango,Nentón,Maya,35612,78.0 %
+13,1305,Huehuetenango,Nentón,Xinka,2,0.0 %
+13,1306,Huehuetenango,San Pedro Necta,Afrodescendiente / Creole / Afromestizo,31,0.1 %
+13,1306,Huehuetenango,San Pedro Necta,Extranjera(o),3,0.0 %
+13,1306,Huehuetenango,San Pedro Necta,Garífuna,24,0.1 %
+13,1306,Huehuetenango,San Pedro Necta,Ladina(o),6939,18.0 %
+13,1306,Huehuetenango,San Pedro Necta,Maya,31512,81.8 %
+13,1306,Huehuetenango,San Pedro Necta,Xinka,1,0.0 %
+13,1307,Huehuetenango,Jacaltenango,Afrodescendiente / Creole / Afromestizo,33,0.1 %
+13,1307,Huehuetenango,Jacaltenango,Extranjera(o),43,0.1 %
+13,1307,Huehuetenango,Jacaltenango,Garífuna,17,0.0 %
+13,1307,Huehuetenango,Jacaltenango,Ladina(o),752,2.0 %
+13,1307,Huehuetenango,Jacaltenango,Maya,36325,97.7 %
+13,1307,Huehuetenango,Jacaltenango,Xinka,1,0.0 %
+13,1308,Huehuetenango,Soloma,Afrodescendiente / Creole / Afromestizo,93,0.2 %
+13,1308,Huehuetenango,Soloma,Extranjera(o),37,0.1 %
+13,1308,Huehuetenango,Soloma,Garífuna,40,0.1 %
+13,1308,Huehuetenango,Soloma,Ladina(o),1874,3.8 %
+13,1308,Huehuetenango,Soloma,Maya,46985,95.8 %
+13,1308,Huehuetenango,Soloma,Xinka,1,0.0 %
+13,1309,Huehuetenango,Ixtahuacán,Afrodescendiente / Creole / Afromestizo,10,0.0 %
+13,1309,Huehuetenango,Ixtahuacán,Extranjera(o),5,0.0 %
+13,1309,Huehuetenango,Ixtahuacán,Garífuna,37,0.1 %
+13,1309,Huehuetenango,Ixtahuacán,Ladina(o),2746,6.2 %
+13,1309,Huehuetenango,Ixtahuacán,Maya,41626,93.7 %
+13,1309,Huehuetenango,Ixtahuacán,Xinka,0,0.0 %
+13,1310,Huehuetenango,Santa Bárbara,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+13,1310,Huehuetenango,Santa Bárbara,Extranjera(o),1,0.0 %
+13,1310,Huehuetenango,Santa Bárbara,Garífuna,24,0.1 %
+13,1310,Huehuetenango,Santa Bárbara,Ladina(o),317,0.9 %
+13,1310,Huehuetenango,Santa Bárbara,Maya,33257,99.0 %
+13,1310,Huehuetenango,Santa Bárbara,Xinka,6,0.0 %
+13,1311,Huehuetenango,La Libertad,Afrodescendiente / Creole / Afromestizo,357,0.9 %
+13,1311,Huehuetenango,La Libertad,Extranjera(o),27,0.1 %
+13,1311,Huehuetenango,La Libertad,Garífuna,24,0.1 %
+13,1311,Huehuetenango,La Libertad,Ladina(o),31929,83.5 %
+13,1311,Huehuetenango,La Libertad,Maya,5897,15.4 %
+13,1311,Huehuetenango,La Libertad,Xinka,0,0.0 %
+13,1312,Huehuetenango,La Democracia,Afrodescendiente / Creole / Afromestizo,40,0.1 %
+13,1312,Huehuetenango,La Democracia,Extranjera(o),43,0.1 %
+13,1312,Huehuetenango,La Democracia,Garífuna,32,0.1 %
+13,1312,Huehuetenango,La Democracia,Ladina(o),29903,53.9 %
+13,1312,Huehuetenango,La Democracia,Maya,25415,45.8 %
+13,1312,Huehuetenango,La Democracia,Xinka,1,0.0 %
+13,1313,Huehuetenango,San Miguel Acatán,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+13,1313,Huehuetenango,San Miguel Acatán,Extranjera(o),10,0.0 %
+13,1313,Huehuetenango,San Miguel Acatán,Garífuna,19,0.1 %
+13,1313,Huehuetenango,San Miguel Acatán,Ladina(o),56,0.2 %
+13,1313,Huehuetenango,San Miguel Acatán,Maya,27042,99.7 %
+13,1313,Huehuetenango,San Miguel Acatán,Xinka,0,0.0 %
+13,1314,Huehuetenango,San Rafael La Independencia,Afrodescendiente / Creole / Afromestizo,8,0.1 %
+13,1314,Huehuetenango,San Rafael La Independencia,Extranjera(o),7,0.0 %
+13,1314,Huehuetenango,San Rafael La Independencia,Garífuna,14,0.1 %
+13,1314,Huehuetenango,San Rafael La Independencia,Ladina(o),28,0.2 %
+13,1314,Huehuetenango,San Rafael La Independencia,Maya,14092,99.6 %
+13,1314,Huehuetenango,San Rafael La Independencia,Xinka,0,0.0 %
+13,1315,Huehuetenango,Todos Santos Cuchumatán,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+13,1315,Huehuetenango,Todos Santos Cuchumatán,Extranjera(o),4,0.0 %
+13,1315,Huehuetenango,Todos Santos Cuchumatán,Garífuna,26,0.1 %
+13,1315,Huehuetenango,Todos Santos Cuchumatán,Ladina(o),3593,11.9 %
+13,1315,Huehuetenango,Todos Santos Cuchumatán,Maya,26554,88.0 %
+13,1315,Huehuetenango,Todos Santos Cuchumatán,Xinka,3,0.0 %
+13,1316,Huehuetenango,San Juan Atitán,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+13,1316,Huehuetenango,San Juan Atitán,Extranjera(o),0,0.0 %
+13,1316,Huehuetenango,San Juan Atitán,Garífuna,15,0.1 %
+13,1316,Huehuetenango,San Juan Atitán,Ladina(o),52,0.3 %
+13,1316,Huehuetenango,San Juan Atitán,Maya,19348,99.6 %
+13,1316,Huehuetenango,San Juan Atitán,Xinka,0,0.0 %
+13,1317,Huehuetenango,Santa Eulalia,Afrodescendiente / Creole / Afromestizo,15,0.0 %
+13,1317,Huehuetenango,Santa Eulalia,Extranjera(o),0,0.0 %
+13,1317,Huehuetenango,Santa Eulalia,Garífuna,25,0.1 %
+13,1317,Huehuetenango,Santa Eulalia,Ladina(o),98,0.3 %
+13,1317,Huehuetenango,Santa Eulalia,Maya,38887,99.6 %
+13,1317,Huehuetenango,Santa Eulalia,Xinka,0,0.0 %
+13,1318,Huehuetenango,San Mateo Ixtatán,Afrodescendiente / Creole / Afromestizo,23,0.1 %
+13,1318,Huehuetenango,San Mateo Ixtatán,Extranjera(o),16,0.0 %
+13,1318,Huehuetenango,San Mateo Ixtatán,Garífuna,39,0.1 %
+13,1318,Huehuetenango,San Mateo Ixtatán,Ladina(o),934,2.1 %
+13,1318,Huehuetenango,San Mateo Ixtatán,Maya,42798,97.7 %
+13,1318,Huehuetenango,San Mateo Ixtatán,Xinka,0,0.0 %
+13,1319,Huehuetenango,Colotenango,Afrodescendiente / Creole / Afromestizo,10,0.0 %
+13,1319,Huehuetenango,Colotenango,Extranjera(o),0,0.0 %
+13,1319,Huehuetenango,Colotenango,Garífuna,17,0.0 %
+13,1319,Huehuetenango,Colotenango,Ladina(o),507,1.5 %
+13,1319,Huehuetenango,Colotenango,Maya,34300,98.5 %
+13,1319,Huehuetenango,Colotenango,Xinka,0,0.0 %
+13,1320,Huehuetenango,San Sebastián Huehuetenango,Afrodescendiente / Creole / Afromestizo,16,0.0 %
+13,1320,Huehuetenango,San Sebastián Huehuetenango,Extranjera(o),1,0.0 %
+13,1320,Huehuetenango,San Sebastián Huehuetenango,Garífuna,19,0.1 %
+13,1320,Huehuetenango,San Sebastián Huehuetenango,Ladina(o),1350,4.1 %
+13,1320,Huehuetenango,San Sebastián Huehuetenango,Maya,31220,95.7 %
+13,1320,Huehuetenango,San Sebastián Huehuetenango,Xinka,2,0.0 %
+13,1321,Huehuetenango,Tectitán,Afrodescendiente / Creole / Afromestizo,34,0.3 %
+13,1321,Huehuetenango,Tectitán,Extranjera(o),12,0.1 %
+13,1321,Huehuetenango,Tectitán,Garífuna,12,0.1 %
+13,1321,Huehuetenango,Tectitán,Ladina(o),8725,80.6 %
+13,1321,Huehuetenango,Tectitán,Maya,2047,18.9 %
+13,1321,Huehuetenango,Tectitán,Xinka,0,0.0 %
+13,1322,Huehuetenango,Concepción Huista,Afrodescendiente / Creole / Afromestizo,7,0.0 %
+13,1322,Huehuetenango,Concepción Huista,Extranjera(o),2,0.0 %
+13,1322,Huehuetenango,Concepción Huista,Garífuna,27,0.1 %
+13,1322,Huehuetenango,Concepción Huista,Ladina(o),1123,5.9 %
+13,1322,Huehuetenango,Concepción Huista,Maya,17756,93.9 %
+13,1322,Huehuetenango,Concepción Huista,Xinka,0,0.0 %
+13,1323,Huehuetenango,San Juan Ixcoy,Afrodescendiente / Creole / Afromestizo,116,0.5 %
+13,1323,Huehuetenango,San Juan Ixcoy,Extranjera(o),3,0.0 %
+13,1323,Huehuetenango,San Juan Ixcoy,Garífuna,16,0.1 %
+13,1323,Huehuetenango,San Juan Ixcoy,Ladina(o),1093,4.7 %
+13,1323,Huehuetenango,San Juan Ixcoy,Maya,21975,94.7 %
+13,1323,Huehuetenango,San Juan Ixcoy,Xinka,1,0.0 %
+13,1324,Huehuetenango,San Antonio Huista,Afrodescendiente / Creole / Afromestizo,5,0.0 %
+13,1324,Huehuetenango,San Antonio Huista,Extranjera(o),15,0.1 %
+13,1324,Huehuetenango,San Antonio Huista,Garífuna,13,0.1 %
+13,1324,Huehuetenango,San Antonio Huista,Ladina(o),12311,73.7 %
+13,1324,Huehuetenango,San Antonio Huista,Maya,4353,26.1 %
+13,1324,Huehuetenango,San Antonio Huista,Xinka,0,0.0 %
+13,1325,Huehuetenango,San Sebastián Coatán,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+13,1325,Huehuetenango,San Sebastián Coatán,Extranjera(o),18,0.1 %
+13,1325,Huehuetenango,San Sebastián Coatán,Garífuna,7,0.0 %
+13,1325,Huehuetenango,San Sebastián Coatán,Ladina(o),23,0.1 %
+13,1325,Huehuetenango,San Sebastián Coatán,Maya,20854,99.8 %
+13,1325,Huehuetenango,San Sebastián Coatán,Xinka,2,0.0 %
+13,1326,Huehuetenango,Barillas,Afrodescendiente / Creole / Afromestizo,185,0.2 %
+13,1326,Huehuetenango,Barillas,Extranjera(o),10,0.0 %
+13,1326,Huehuetenango,Barillas,Garífuna,60,0.1 %
+13,1326,Huehuetenango,Barillas,Ladina(o),14416,14.3 %
+13,1326,Huehuetenango,Barillas,Maya,86177,85.5 %
+13,1326,Huehuetenango,Barillas,Xinka,1,0.0 %
+13,1327,Huehuetenango,Aguacatán,Afrodescendiente / Creole / Afromestizo,30,0.1 %
+13,1327,Huehuetenango,Aguacatán,Extranjera(o),9,0.0 %
+13,1327,Huehuetenango,Aguacatán,Garífuna,39,0.1 %
+13,1327,Huehuetenango,Aguacatán,Ladina(o),5561,11.2 %
+13,1327,Huehuetenango,Aguacatán,Maya,43967,88.6 %
+13,1327,Huehuetenango,Aguacatán,Xinka,1,0.0 %
+13,1328,Huehuetenango,San Rafael Petzal,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+13,1328,Huehuetenango,San Rafael Petzal,Extranjera(o),1,0.0 %
+13,1328,Huehuetenango,San Rafael Petzal,Garífuna,5,0.0 %
+13,1328,Huehuetenango,San Rafael Petzal,Ladina(o),259,2.3 %
+13,1328,Huehuetenango,San Rafael Petzal,Maya,11002,97.6 %
+13,1328,Huehuetenango,San Rafael Petzal,Xinka,0,0.0 %
+13,1329,Huehuetenango,San Gaspar Ixchil,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+13,1329,Huehuetenango,San Gaspar Ixchil,Extranjera(o),0,0.0 %
+13,1329,Huehuetenango,San Gaspar Ixchil,Garífuna,1,0.0 %
+13,1329,Huehuetenango,San Gaspar Ixchil,Ladina(o),19,0.2 %
+13,1329,Huehuetenango,San Gaspar Ixchil,Maya,8122,99.8 %
+13,1329,Huehuetenango,San Gaspar Ixchil,Xinka,0,0.0 %
+13,1330,Huehuetenango,Santiago Chimaltenango,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+13,1330,Huehuetenango,Santiago Chimaltenango,Extranjera(o),2,0.0 %
+13,1330,Huehuetenango,Santiago Chimaltenango,Garífuna,5,0.0 %
+13,1330,Huehuetenango,Santiago Chimaltenango,Ladina(o),35,0.3 %
+13,1330,Huehuetenango,Santiago Chimaltenango,Maya,10464,99.6 %
+13,1330,Huehuetenango,Santiago Chimaltenango,Xinka,0,0.0 %
+13,1331,Huehuetenango,Santa Ana Huista,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+13,1331,Huehuetenango,Santa Ana Huista,Extranjera(o),7,0.1 %
+13,1331,Huehuetenango,Santa Ana Huista,Garífuna,9,0.1 %
+13,1331,Huehuetenango,Santa Ana Huista,Ladina(o),6572,69.8 %
+13,1331,Huehuetenango,Santa Ana Huista,Maya,2823,30.0 %
+13,1331,Huehuetenango,Santa Ana Huista,Xinka,0,0.0 %
+13,1332,Huehuetenango,Unión Cantinil,Afrodescendiente / Creole / Afromestizo,5,0.0 %
+13,1332,Huehuetenango,Unión Cantinil,Extranjera(o),5,0.0 %
+13,1332,Huehuetenango,Unión Cantinil,Garífuna,3,0.0 %
+13,1332,Huehuetenango,Unión Cantinil,Ladina(o),15206,95.6 %
+13,1332,Huehuetenango,Unión Cantinil,Maya,681,4.3 %
+13,1332,Huehuetenango,Unión Cantinil,Xinka,0,0.0 %
+13,1333,Huehuetenango,Petatán,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+13,1333,Huehuetenango,Petatán,Extranjera(o),2,0.0 %
+13,1333,Huehuetenango,Petatán,Garífuna,4,0.1 %
+13,1333,Huehuetenango,Petatán,Ladina(o),1185,18.6 %
+13,1333,Huehuetenango,Petatán,Maya,5173,81.3 %
+13,1333,Huehuetenango,Petatán,Xinka,0,0.0 %
+14,1401,Quiché,Santa Cruz del Quiché,Afrodescendiente / Creole / Afromestizo,126,0.2 %
+14,1401,Quiché,Santa Cruz del Quiché,Extranjera(o),44,0.1 %
+14,1401,Quiché,Santa Cruz del Quiché,Garífuna,41,0.1 %
+14,1401,Quiché,Santa Cruz del Quiché,Ladina(o),12728,16.3 %
+14,1401,Quiché,Santa Cruz del Quiché,Maya,65335,83.5 %
+14,1401,Quiché,Santa Cruz del Quiché,Xinka,5,0.0 %
+14,1402,Quiché,Chiché,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+14,1402,Quiché,Chiché,Extranjera(o),1,0.0 %
+14,1402,Quiché,Chiché,Garífuna,15,0.1 %
+14,1402,Quiché,Chiché,Ladina(o),857,2.9 %
+14,1402,Quiché,Chiché,Maya,28766,97.0 %
+14,1402,Quiché,Chiché,Xinka,3,0.0 %
+14,1403,Quiché,Chinique,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+14,1403,Quiché,Chinique,Extranjera(o),4,0.0 %
+14,1403,Quiché,Chinique,Garífuna,5,0.0 %
+14,1403,Quiché,Chinique,Ladina(o),2138,18.8 %
+14,1403,Quiché,Chinique,Maya,9235,81.1 %
+14,1403,Quiché,Chinique,Xinka,0,0.0 %
+14,1404,Quiché,Zacualpa,Afrodescendiente / Creole / Afromestizo,32,0.1 %
+14,1404,Quiché,Zacualpa,Extranjera(o),9,0.0 %
+14,1404,Quiché,Zacualpa,Garífuna,21,0.1 %
+14,1404,Quiché,Zacualpa,Ladina(o),1422,4.3 %
+14,1404,Quiché,Zacualpa,Maya,31264,95.5 %
+14,1404,Quiché,Zacualpa,Xinka,2,0.0 %
+14,1405,Quiché,Chajul,Afrodescendiente / Creole / Afromestizo,45,0.1 %
+14,1405,Quiché,Chajul,Extranjera(o),6,0.0 %
+14,1405,Quiché,Chajul,Garífuna,40,0.1 %
+14,1405,Quiché,Chajul,Ladina(o),3938,8.4 %
+14,1405,Quiché,Chajul,Maya,42627,91.4 %
+14,1405,Quiché,Chajul,Xinka,2,0.0 %
+14,1406,Quiché,Chichicastenango,Afrodescendiente / Creole / Afromestizo,53,0.0 %
+14,1406,Quiché,Chichicastenango,Extranjera(o),52,0.0 %
+14,1406,Quiché,Chichicastenango,Garífuna,77,0.1 %
+14,1406,Quiché,Chichicastenango,Ladina(o),1478,1.0 %
+14,1406,Quiché,Chichicastenango,Maya,139900,98.8 %
+14,1406,Quiché,Chichicastenango,Xinka,7,0.0 %
+14,1407,Quiché,Patzité,Afrodescendiente / Creole / Afromestizo,6,0.1 %
+14,1407,Quiché,Patzité,Extranjera(o),1,0.0 %
+14,1407,Quiché,Patzité,Garífuna,0,0.0 %
+14,1407,Quiché,Patzité,Ladina(o),91,1.5 %
+14,1407,Quiché,Patzité,Maya,6046,98.4 %
+14,1407,Quiché,Patzité,Xinka,0,0.0 %
+14,1408,Quiché,San Antonio Ilotenango,Afrodescendiente / Creole / Afromestizo,9,0.0 %
+14,1408,Quiché,San Antonio Ilotenango,Extranjera(o),3,0.0 %
+14,1408,Quiché,San Antonio Ilotenango,Garífuna,17,0.1 %
+14,1408,Quiché,San Antonio Ilotenango,Ladina(o),103,0.4 %
+14,1408,Quiché,San Antonio Ilotenango,Maya,25458,99.5 %
+14,1408,Quiché,San Antonio Ilotenango,Xinka,0,0.0 %
+14,1409,Quiché,San Pedro Jocopilas,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+14,1409,Quiché,San Pedro Jocopilas,Extranjera(o),4,0.0 %
+14,1409,Quiché,San Pedro Jocopilas,Garífuna,23,0.1 %
+14,1409,Quiché,San Pedro Jocopilas,Ladina(o),1712,5.4 %
+14,1409,Quiché,San Pedro Jocopilas,Maya,30207,94.5 %
+14,1409,Quiché,San Pedro Jocopilas,Xinka,0,0.0 %
+14,1410,Quiché,Cunén,Afrodescendiente / Creole / Afromestizo,86,0.2 %
+14,1410,Quiché,Cunén,Extranjera(o),0,0.0 %
+14,1410,Quiché,Cunén,Garífuna,14,0.0 %
+14,1410,Quiché,Cunén,Ladina(o),3736,9.0 %
+14,1410,Quiché,Cunén,Maya,37619,90.7 %
+14,1410,Quiché,Cunén,Xinka,0,0.0 %
+14,1411,Quiché,San Juan Cotzal,Afrodescendiente / Creole / Afromestizo,90,0.3 %
+14,1411,Quiché,San Juan Cotzal,Extranjera(o),8,0.0 %
+14,1411,Quiché,San Juan Cotzal,Garífuna,28,0.1 %
+14,1411,Quiché,San Juan Cotzal,Ladina(o),1108,3.5 %
+14,1411,Quiché,San Juan Cotzal,Maya,30298,96.1 %
+14,1411,Quiché,San Juan Cotzal,Xinka,0,0.0 %
+14,1412,Quiché,Joyabaj,Afrodescendiente / Creole / Afromestizo,45,0.1 %
+14,1412,Quiché,Joyabaj,Extranjera(o),53,0.1 %
+14,1412,Quiché,Joyabaj,Garífuna,41,0.0 %
+14,1412,Quiché,Joyabaj,Ladina(o),6931,8.4 %
+14,1412,Quiché,Joyabaj,Maya,75295,91.4 %
+14,1412,Quiché,Joyabaj,Xinka,4,0.0 %
+14,1413,Quiché,Nebaj,Afrodescendiente / Creole / Afromestizo,191,0.3 %
+14,1413,Quiché,Nebaj,Extranjera(o),17,0.0 %
+14,1413,Quiché,Nebaj,Garífuna,46,0.1 %
+14,1413,Quiché,Nebaj,Ladina(o),3820,5.3 %
+14,1413,Quiché,Nebaj,Maya,68612,94.4 %
+14,1413,Quiché,Nebaj,Xinka,0,0.0 %
+14,1414,Quiché,San Andrés Sajcabajá,Afrodescendiente / Creole / Afromestizo,11,0.0 %
+14,1414,Quiché,San Andrés Sajcabajá,Extranjera(o),0,0.0 %
+14,1414,Quiché,San Andrés Sajcabajá,Garífuna,7,0.0 %
+14,1414,Quiché,San Andrés Sajcabajá,Ladina(o),2712,10.9 %
+14,1414,Quiché,San Andrés Sajcabajá,Maya,22251,89.1 %
+14,1414,Quiché,San Andrés Sajcabajá,Xinka,0,0.0 %
+14,1415,Quiché,Uspantán,Afrodescendiente / Creole / Afromestizo,634,1.0 %
+14,1415,Quiché,Uspantán,Extranjera(o),7,0.0 %
+14,1415,Quiché,Uspantán,Garífuna,40,0.1 %
+14,1415,Quiché,Uspantán,Ladina(o),10804,16.4 %
+14,1415,Quiché,Uspantán,Maya,54380,82.6 %
+14,1415,Quiché,Uspantán,Xinka,7,0.0 %
+14,1416,Quiché,Sacapulas,Afrodescendiente / Creole / Afromestizo,30,0.1 %
+14,1416,Quiché,Sacapulas,Extranjera(o),5,0.0 %
+14,1416,Quiché,Sacapulas,Garífuna,18,0.0 %
+14,1416,Quiché,Sacapulas,Ladina(o),1753,3.3 %
+14,1416,Quiché,Sacapulas,Maya,50813,96.6 %
+14,1416,Quiché,Sacapulas,Xinka,1,0.0 %
+14,1417,Quiché,San Bartolomé Jocotenango,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+14,1417,Quiché,San Bartolomé Jocotenango,Extranjera(o),2,0.0 %
+14,1417,Quiché,San Bartolomé Jocotenango,Garífuna,6,0.0 %
+14,1417,Quiché,San Bartolomé Jocotenango,Ladina(o),186,1.4 %
+14,1417,Quiché,San Bartolomé Jocotenango,Maya,13371,98.5 %
+14,1417,Quiché,San Bartolomé Jocotenango,Xinka,0,0.0 %
+14,1418,Quiché,Canillá,Afrodescendiente / Creole / Afromestizo,19,0.2 %
+14,1418,Quiché,Canillá,Extranjera(o),19,0.2 %
+14,1418,Quiché,Canillá,Garífuna,19,0.2 %
+14,1418,Quiché,Canillá,Ladina(o),6553,53.8 %
+14,1418,Quiché,Canillá,Maya,5560,45.7 %
+14,1418,Quiché,Canillá,Xinka,2,0.0 %
+14,1419,Quiché,Chicamán,Afrodescendiente / Creole / Afromestizo,11,0.0 %
+14,1419,Quiché,Chicamán,Extranjera(o),1,0.0 %
+14,1419,Quiché,Chicamán,Garífuna,21,0.1 %
+14,1419,Quiché,Chicamán,Ladina(o),8536,21.5 %
+14,1419,Quiché,Chicamán,Maya,31162,78.4 %
+14,1419,Quiché,Chicamán,Xinka,0,0.0 %
+14,1420,Quiché,Ixcán,Afrodescendiente / Creole / Afromestizo,278,0.3 %
+14,1420,Quiché,Ixcán,Extranjera(o),56,0.1 %
+14,1420,Quiché,Ixcán,Garífuna,73,0.1 %
+14,1420,Quiché,Ixcán,Ladina(o),22102,22.2 %
+14,1420,Quiché,Ixcán,Maya,76936,77.3 %
+14,1420,Quiché,Ixcán,Xinka,25,0.0 %
+14,1421,Quiché,Pachalum,Afrodescendiente / Creole / Afromestizo,13,0.1 %
+14,1421,Quiché,Pachalum,Extranjera(o),14,0.2 %
+14,1421,Quiché,Pachalum,Garífuna,4,0.0 %
+14,1421,Quiché,Pachalum,Ladina(o),7442,84.2 %
+14,1421,Quiché,Pachalum,Maya,1365,15.4 %
+14,1421,Quiché,Pachalum,Xinka,1,0.0 %
+15,1501,Baja Verapaz,Salamá,Afrodescendiente / Creole / Afromestizo,184,0.3 %
+15,1501,Baja Verapaz,Salamá,Extranjera(o),93,0.1 %
+15,1501,Baja Verapaz,Salamá,Garífuna,36,0.1 %
+15,1501,Baja Verapaz,Salamá,Ladina(o),50387,77.2 %
+15,1501,Baja Verapaz,Salamá,Maya,14559,22.3 %
+15,1501,Baja Verapaz,Salamá,Xinka,16,0.0 %
+15,1502,Baja Verapaz,San Miguel Chicaj,Afrodescendiente / Creole / Afromestizo,15,0.0 %
+15,1502,Baja Verapaz,San Miguel Chicaj,Extranjera(o),10,0.0 %
+15,1502,Baja Verapaz,San Miguel Chicaj,Garífuna,21,0.1 %
+15,1502,Baja Verapaz,San Miguel Chicaj,Ladina(o),2731,8.2 %
+15,1502,Baja Verapaz,San Miguel Chicaj,Maya,30339,91.6 %
+15,1502,Baja Verapaz,San Miguel Chicaj,Xinka,5,0.0 %
+15,1503,Baja Verapaz,Rabinal,Afrodescendiente / Creole / Afromestizo,53,0.1 %
+15,1503,Baja Verapaz,Rabinal,Extranjera(o),27,0.1 %
+15,1503,Baja Verapaz,Rabinal,Garífuna,37,0.1 %
+15,1503,Baja Verapaz,Rabinal,Ladina(o),7270,17.8 %
+15,1503,Baja Verapaz,Rabinal,Maya,33393,81.9 %
+15,1503,Baja Verapaz,Rabinal,Xinka,17,0.0 %
+15,1504,Baja Verapaz,Cubulco,Afrodescendiente / Creole / Afromestizo,75,0.1 %
+15,1504,Baja Verapaz,Cubulco,Extranjera(o),9,0.0 %
+15,1504,Baja Verapaz,Cubulco,Garífuna,63,0.1 %
+15,1504,Baja Verapaz,Cubulco,Ladina(o),13913,25.4 %
+15,1504,Baja Verapaz,Cubulco,Maya,40807,74.4 %
+15,1504,Baja Verapaz,Cubulco,Xinka,2,0.0 %
+15,1505,Baja Verapaz,Granados,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+15,1505,Baja Verapaz,Granados,Extranjera(o),13,0.1 %
+15,1505,Baja Verapaz,Granados,Garífuna,14,0.1 %
+15,1505,Baja Verapaz,Granados,Ladina(o),12221,89.9 %
+15,1505,Baja Verapaz,Granados,Maya,1343,9.9 %
+15,1505,Baja Verapaz,Granados,Xinka,2,0.0 %
+15,1506,Baja Verapaz,El Chol,Afrodescendiente / Creole / Afromestizo,8,0.1 %
+15,1506,Baja Verapaz,El Chol,Extranjera(o),5,0.1 %
+15,1506,Baja Verapaz,El Chol,Garífuna,2,0.0 %
+15,1506,Baja Verapaz,El Chol,Ladina(o),8664,90.8 %
+15,1506,Baja Verapaz,El Chol,Maya,859,9.0 %
+15,1506,Baja Verapaz,El Chol,Xinka,0,0.0 %
+15,1507,Baja Verapaz,San Jerónimo,Afrodescendiente / Creole / Afromestizo,142,0.6 %
+15,1507,Baja Verapaz,San Jerónimo,Extranjera(o),53,0.2 %
+15,1507,Baja Verapaz,San Jerónimo,Garífuna,28,0.1 %
+15,1507,Baja Verapaz,San Jerónimo,Ladina(o),20988,82.4 %
+15,1507,Baja Verapaz,San Jerónimo,Maya,4230,16.6 %
+15,1507,Baja Verapaz,San Jerónimo,Xinka,18,0.1 %
+15,1508,Baja Verapaz,Purulhá,Afrodescendiente / Creole / Afromestizo,63,0.1 %
+15,1508,Baja Verapaz,Purulhá,Extranjera(o),11,0.0 %
+15,1508,Baja Verapaz,Purulhá,Garífuna,43,0.1 %
+15,1508,Baja Verapaz,Purulhá,Ladina(o),2486,4.4 %
+15,1508,Baja Verapaz,Purulhá,Maya,54216,95.4 %
+15,1508,Baja Verapaz,Purulhá,Xinka,3,0.0 %
+16,1601,Alta Verapaz,Cobán,Afrodescendiente / Creole / Afromestizo,455,0.2 %
+16,1601,Alta Verapaz,Cobán,Extranjera(o),273,0.1 %
+16,1601,Alta Verapaz,Cobán,Garífuna,309,0.1 %
+16,1601,Alta Verapaz,Cobán,Ladina(o),29995,14.1 %
+16,1601,Alta Verapaz,Cobán,Maya,181344,85.4 %
+16,1601,Alta Verapaz,Cobán,Xinka,45,0.0 %
+16,1602,Alta Verapaz,Santa Cruz Verapaz,Afrodescendiente / Creole / Afromestizo,92,0.3 %
+16,1602,Alta Verapaz,Santa Cruz Verapaz,Extranjera(o),32,0.1 %
+16,1602,Alta Verapaz,Santa Cruz Verapaz,Garífuna,34,0.1 %
+16,1602,Alta Verapaz,Santa Cruz Verapaz,Ladina(o),5951,18.6 %
+16,1602,Alta Verapaz,Santa Cruz Verapaz,Maya,25924,80.9 %
+16,1602,Alta Verapaz,Santa Cruz Verapaz,Xinka,9,0.0 %
+16,1603,Alta Verapaz,San Cristóbal Verapaz,Afrodescendiente / Creole / Afromestizo,146,0.2 %
+16,1603,Alta Verapaz,San Cristóbal Verapaz,Extranjera(o),26,0.0 %
+16,1603,Alta Verapaz,San Cristóbal Verapaz,Garífuna,75,0.1 %
+16,1603,Alta Verapaz,San Cristóbal Verapaz,Ladina(o),7431,10.8 %
+16,1603,Alta Verapaz,San Cristóbal Verapaz,Maya,61135,88.8 %
+16,1603,Alta Verapaz,San Cristóbal Verapaz,Xinka,6,0.0 %
+16,1604,Alta Verapaz,Tactic,Afrodescendiente / Creole / Afromestizo,45,0.1 %
+16,1604,Alta Verapaz,Tactic,Extranjera(o),33,0.1 %
+16,1604,Alta Verapaz,Tactic,Garífuna,39,0.1 %
+16,1604,Alta Verapaz,Tactic,Ladina(o),5424,14.3 %
+16,1604,Alta Verapaz,Tactic,Maya,32507,85.4 %
+16,1604,Alta Verapaz,Tactic,Xinka,4,0.0 %
+16,1605,Alta Verapaz,Tamahú,Afrodescendiente / Creole / Afromestizo,11,0.1 %
+16,1605,Alta Verapaz,Tamahú,Extranjera(o),2,0.0 %
+16,1605,Alta Verapaz,Tamahú,Garífuna,19,0.1 %
+16,1605,Alta Verapaz,Tamahú,Ladina(o),353,1.8 %
+16,1605,Alta Verapaz,Tamahú,Maya,19598,98.1 %
+16,1605,Alta Verapaz,Tamahú,Xinka,1,0.0 %
+16,1606,Alta Verapaz,Tucurú,Afrodescendiente / Creole / Afromestizo,25,0.1 %
+16,1606,Alta Verapaz,Tucurú,Extranjera(o),9,0.0 %
+16,1606,Alta Verapaz,Tucurú,Garífuna,19,0.0 %
+16,1606,Alta Verapaz,Tucurú,Ladina(o),896,2.1 %
+16,1606,Alta Verapaz,Tucurú,Maya,42524,97.8 %
+16,1606,Alta Verapaz,Tucurú,Xinka,0,0.0 %
+16,1607,Alta Verapaz,Panzós,Afrodescendiente / Creole / Afromestizo,24,0.0 %
+16,1607,Alta Verapaz,Panzós,Extranjera(o),4,0.0 %
+16,1607,Alta Verapaz,Panzós,Garífuna,69,0.1 %
+16,1607,Alta Verapaz,Panzós,Ladina(o),1046,1.5 %
+16,1607,Alta Verapaz,Panzós,Maya,70693,98.4 %
+16,1607,Alta Verapaz,Panzós,Xinka,10,0.0 %
+16,1608,Alta Verapaz,Senahú,Afrodescendiente / Creole / Afromestizo,31,0.0 %
+16,1608,Alta Verapaz,Senahú,Extranjera(o),14,0.0 %
+16,1608,Alta Verapaz,Senahú,Garífuna,94,0.1 %
+16,1608,Alta Verapaz,Senahú,Ladina(o),959,1.0 %
+16,1608,Alta Verapaz,Senahú,Maya,90873,98.8 %
+16,1608,Alta Verapaz,Senahú,Xinka,3,0.0 %
+16,1609,Alta Verapaz,San Pedro Carchá,Afrodescendiente / Creole / Afromestizo,151,0.1 %
+16,1609,Alta Verapaz,San Pedro Carchá,Extranjera(o),45,0.0 %
+16,1609,Alta Verapaz,San Pedro Carchá,Garífuna,194,0.1 %
+16,1609,Alta Verapaz,San Pedro Carchá,Ladina(o),6910,2.9 %
+16,1609,Alta Verapaz,San Pedro Carchá,Maya,227929,96.9 %
+16,1609,Alta Verapaz,San Pedro Carchá,Xinka,46,0.0 %
+16,1610,Alta Verapaz,San Juan Chamelco,Afrodescendiente / Creole / Afromestizo,18,0.0 %
+16,1610,Alta Verapaz,San Juan Chamelco,Extranjera(o),35,0.1 %
+16,1610,Alta Verapaz,San Juan Chamelco,Garífuna,56,0.1 %
+16,1610,Alta Verapaz,San Juan Chamelco,Ladina(o),1590,2.8 %
+16,1610,Alta Verapaz,San Juan Chamelco,Maya,55755,97.0 %
+16,1610,Alta Verapaz,San Juan Chamelco,Xinka,2,0.0 %
+16,1611,Alta Verapaz,Lanquín,Afrodescendiente / Creole / Afromestizo,7,0.0 %
+16,1611,Alta Verapaz,Lanquín,Extranjera(o),5,0.0 %
+16,1611,Alta Verapaz,Lanquín,Garífuna,12,0.0 %
+16,1611,Alta Verapaz,Lanquín,Ladina(o),247,1.0 %
+16,1611,Alta Verapaz,Lanquín,Maya,23827,98.9 %
+16,1611,Alta Verapaz,Lanquín,Xinka,1,0.0 %
+16,1612,Alta Verapaz,Cahabón,Afrodescendiente / Creole / Afromestizo,28,0.0 %
+16,1612,Alta Verapaz,Cahabón,Extranjera(o),6,0.0 %
+16,1612,Alta Verapaz,Cahabón,Garífuna,56,0.1 %
+16,1612,Alta Verapaz,Cahabón,Ladina(o),830,1.3 %
+16,1612,Alta Verapaz,Cahabón,Maya,63990,98.6 %
+16,1612,Alta Verapaz,Cahabón,Xinka,1,0.0 %
+16,1613,Alta Verapaz,Chisec,Afrodescendiente / Creole / Afromestizo,60,0.1 %
+16,1613,Alta Verapaz,Chisec,Extranjera(o),16,0.0 %
+16,1613,Alta Verapaz,Chisec,Garífuna,66,0.1 %
+16,1613,Alta Verapaz,Chisec,Ladina(o),5521,6.5 %
+16,1613,Alta Verapaz,Chisec,Maya,78878,93.3 %
+16,1613,Alta Verapaz,Chisec,Xinka,12,0.0 %
+16,1614,Alta Verapaz,Chahal,Afrodescendiente / Creole / Afromestizo,38,0.1 %
+16,1614,Alta Verapaz,Chahal,Extranjera(o),14,0.1 %
+16,1614,Alta Verapaz,Chahal,Garífuna,13,0.0 %
+16,1614,Alta Verapaz,Chahal,Ladina(o),1609,6.0 %
+16,1614,Alta Verapaz,Chahal,Maya,24970,93.7 %
+16,1614,Alta Verapaz,Chahal,Xinka,0,0.0 %
+16,1615,Alta Verapaz,Fray Bartolomé de Las Casas,Afrodescendiente / Creole / Afromestizo,38,0.1 %
+16,1615,Alta Verapaz,Fray Bartolomé de Las Casas,Extranjera(o),48,0.1 %
+16,1615,Alta Verapaz,Fray Bartolomé de Las Casas,Garífuna,50,0.1 %
+16,1615,Alta Verapaz,Fray Bartolomé de Las Casas,Ladina(o),6498,9.8 %
+16,1615,Alta Verapaz,Fray Bartolomé de Las Casas,Maya,59506,90.0 %
+16,1615,Alta Verapaz,Fray Bartolomé de Las Casas,Xinka,1,0.0 %
+16,1616,Alta Verapaz,Santa Catalina La Tinta,Afrodescendiente / Creole / Afromestizo,76,0.2 %
+16,1616,Alta Verapaz,Santa Catalina La Tinta,Extranjera(o),16,0.0 %
+16,1616,Alta Verapaz,Santa Catalina La Tinta,Garífuna,17,0.0 %
+16,1616,Alta Verapaz,Santa Catalina La Tinta,Ladina(o),1399,3.5 %
+16,1616,Alta Verapaz,Santa Catalina La Tinta,Maya,39004,96.3 %
+16,1616,Alta Verapaz,Santa Catalina La Tinta,Xinka,4,0.0 %
+16,1617,Alta Verapaz,Raxruhá,Afrodescendiente / Creole / Afromestizo,43,0.1 %
+16,1617,Alta Verapaz,Raxruhá,Extranjera(o),15,0.0 %
+16,1617,Alta Verapaz,Raxruhá,Garífuna,14,0.0 %
+16,1617,Alta Verapaz,Raxruhá,Ladina(o),5846,15.9 %
+16,1617,Alta Verapaz,Raxruhá,Maya,30912,83.9 %
+16,1617,Alta Verapaz,Raxruhá,Xinka,2,0.0 %
+17,1701,Petén,Flores,Afrodescendiente / Creole / Afromestizo,22,0.1 %
+17,1701,Petén,Flores,Extranjera(o),71,0.2 %
+17,1701,Petén,Flores,Garífuna,45,0.1 %
+17,1701,Petén,Flores,Ladina(o),35477,92.9 %
+17,1701,Petén,Flores,Maya,2569,6.7 %
+17,1701,Petén,Flores,Xinka,2,0.0 %
+17,1702,Petén,San José,Afrodescendiente / Creole / Afromestizo,10,0.1 %
+17,1702,Petén,San José,Extranjera(o),17,0.2 %
+17,1702,Petén,San José,Garífuna,5,0.1 %
+17,1702,Petén,San José,Ladina(o),4569,65.4 %
+17,1702,Petén,San José,Maya,2388,34.2 %
+17,1702,Petén,San José,Xinka,0,0.0 %
+17,1703,Petén,San Benito,Afrodescendiente / Creole / Afromestizo,153,0.3 %
+17,1703,Petén,San Benito,Extranjera(o),80,0.2 %
+17,1703,Petén,San Benito,Garífuna,53,0.1 %
+17,1703,Petén,San Benito,Ladina(o),40163,91.6 %
+17,1703,Petén,San Benito,Maya,3388,7.7 %
+17,1703,Petén,San Benito,Xinka,4,0.0 %
+17,1704,Petén,San Andrés,Afrodescendiente / Creole / Afromestizo,37,0.1 %
+17,1704,Petén,San Andrés,Extranjera(o),85,0.3 %
+17,1704,Petén,San Andrés,Garífuna,16,0.0 %
+17,1704,Petén,San Andrés,Ladina(o),27215,82.8 %
+17,1704,Petén,San Andrés,Maya,5500,16.7 %
+17,1704,Petén,San Andrés,Xinka,25,0.1 %
+17,1705,Petén,La Libertad,Afrodescendiente / Creole / Afromestizo,62,0.1 %
+17,1705,Petén,La Libertad,Extranjera(o),87,0.1 %
+17,1705,Petén,La Libertad,Garífuna,57,0.1 %
+17,1705,Petén,La Libertad,Ladina(o),56046,77.9 %
+17,1705,Petén,La Libertad,Maya,15670,21.8 %
+17,1705,Petén,La Libertad,Xinka,17,0.0 %
+17,1706,Petén,San Francisco,Afrodescendiente / Creole / Afromestizo,25,0.2 %
+17,1706,Petén,San Francisco,Extranjera(o),37,0.2 %
+17,1706,Petén,San Francisco,Garífuna,10,0.1 %
+17,1706,Petén,San Francisco,Ladina(o),11896,77.4 %
+17,1706,Petén,San Francisco,Maya,3400,22.1 %
+17,1706,Petén,San Francisco,Xinka,3,0.0 %
+17,1707,Petén,Santa Ana,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+17,1707,Petén,Santa Ana,Extranjera(o),33,0.2 %
+17,1707,Petén,Santa Ana,Garífuna,33,0.2 %
+17,1707,Petén,Santa Ana,Ladina(o),20369,92.7 %
+17,1707,Petén,Santa Ana,Maya,1528,7.0 %
+17,1707,Petén,Santa Ana,Xinka,1,0.0 %
+17,1708,Petén,Dolores,Afrodescendiente / Creole / Afromestizo,41,0.2 %
+17,1708,Petén,Dolores,Extranjera(o),28,0.1 %
+17,1708,Petén,Dolores,Garífuna,13,0.0 %
+17,1708,Petén,Dolores,Ladina(o),24298,90.3 %
+17,1708,Petén,Dolores,Maya,2538,9.4 %
+17,1708,Petén,Dolores,Xinka,2,0.0 %
+17,1709,Petén,San Luis,Afrodescendiente / Creole / Afromestizo,163,0.2 %
+17,1709,Petén,San Luis,Extranjera(o),49,0.1 %
+17,1709,Petén,San Luis,Garífuna,54,0.1 %
+17,1709,Petén,San Luis,Ladina(o),24907,37.2 %
+17,1709,Petén,San Luis,Maya,41862,62.4 %
+17,1709,Petén,San Luis,Xinka,3,0.0 %
+17,1710,Petén,Sayaxché,Afrodescendiente / Creole / Afromestizo,247,0.3 %
+17,1710,Petén,Sayaxché,Extranjera(o),85,0.1 %
+17,1710,Petén,Sayaxché,Garífuna,60,0.1 %
+17,1710,Petén,Sayaxché,Ladina(o),35560,38.1 %
+17,1710,Petén,Sayaxché,Maya,57401,61.4 %
+17,1710,Petén,Sayaxché,Xinka,61,0.1 %
+17,1711,Petén,Melchor de Mencos,Afrodescendiente / Creole / Afromestizo,57,0.2 %
+17,1711,Petén,Melchor de Mencos,Extranjera(o),170,0.6 %
+17,1711,Petén,Melchor de Mencos,Garífuna,24,0.1 %
+17,1711,Petén,Melchor de Mencos,Ladina(o),27150,96.1 %
+17,1711,Petén,Melchor de Mencos,Maya,807,2.9 %
+17,1711,Petén,Melchor de Mencos,Xinka,30,0.1 %
+17,1712,Petén,Poptún,Afrodescendiente / Creole / Afromestizo,69,0.1 %
+17,1712,Petén,Poptún,Extranjera(o),123,0.2 %
+17,1712,Petén,Poptún,Garífuna,38,0.1 %
+17,1712,Petén,Poptún,Ladina(o),34263,65.5 %
+17,1712,Petén,Poptún,Maya,17782,34.0 %
+17,1712,Petén,Poptún,Xinka,7,0.0 %
+17,1713,Petén,Las Cruces,Afrodescendiente / Creole / Afromestizo,140,0.4 %
+17,1713,Petén,Las Cruces,Extranjera(o),16,0.0 %
+17,1713,Petén,Las Cruces,Garífuna,42,0.1 %
+17,1713,Petén,Las Cruces,Ladina(o),25516,78.0 %
+17,1713,Petén,Las Cruces,Maya,6962,21.3 %
+17,1713,Petén,Las Cruces,Xinka,39,0.1 %
+17,1714,Petén,El Chal,Afrodescendiente / Creole / Afromestizo,65,0.5 %
+17,1714,Petén,El Chal,Extranjera(o),17,0.1 %
+17,1714,Petén,El Chal,Garífuna,12,0.1 %
+17,1714,Petén,El Chal,Ladina(o),10700,77.4 %
+17,1714,Petén,El Chal,Maya,3019,21.8 %
+17,1714,Petén,El Chal,Xinka,6,0.0 %
+18,1801,Izabal,Puerto Barrios,Afrodescendiente / Creole / Afromestizo,511,0.5 %
+18,1801,Izabal,Puerto Barrios,Extranjera(o),336,0.3 %
+18,1801,Izabal,Puerto Barrios,Garífuna,1148,1.1 %
+18,1801,Izabal,Puerto Barrios,Ladina(o),92765,92.2 %
+18,1801,Izabal,Puerto Barrios,Maya,5755,5.7 %
+18,1801,Izabal,Puerto Barrios,Xinka,78,0.1 %
+18,1802,Izabal,Lívingston,Afrodescendiente / Creole / Afromestizo,418,0.6 %
+18,1802,Izabal,Lívingston,Extranjera(o),104,0.1 %
+18,1802,Izabal,Lívingston,Garífuna,1675,2.3 %
+18,1802,Izabal,Lívingston,Ladina(o),32102,43.7 %
+18,1802,Izabal,Lívingston,Maya,39187,53.3 %
+18,1802,Izabal,Lívingston,Xinka,6,0.0 %
+18,1803,Izabal,El Estor,Afrodescendiente / Creole / Afromestizo,327,0.4 %
+18,1803,Izabal,El Estor,Extranjera(o),125,0.2 %
+18,1803,Izabal,El Estor,Garífuna,55,0.1 %
+18,1803,Izabal,El Estor,Ladina(o),5834,8.0 %
+18,1803,Izabal,El Estor,Maya,66980,91.3 %
+18,1803,Izabal,El Estor,Xinka,7,0.0 %
+18,1804,Izabal,Morales,Afrodescendiente / Creole / Afromestizo,166,0.2 %
+18,1804,Izabal,Morales,Extranjera(o),194,0.2 %
+18,1804,Izabal,Morales,Garífuna,81,0.1 %
+18,1804,Izabal,Morales,Ladina(o),97524,97.2 %
+18,1804,Izabal,Morales,Maya,2387,2.4 %
+18,1804,Izabal,Morales,Xinka,9,0.0 %
+18,1805,Izabal,Los Amates,Afrodescendiente / Creole / Afromestizo,107,0.2 %
+18,1805,Izabal,Los Amates,Extranjera(o),128,0.2 %
+18,1805,Izabal,Los Amates,Garífuna,43,0.1 %
+18,1805,Izabal,Los Amates,Ladina(o),59644,97.9 %
+18,1805,Izabal,Los Amates,Maya,987,1.6 %
+18,1805,Izabal,Los Amates,Xinka,5,0.0 %
+19,1901,Zacapa,Zacapa,Afrodescendiente / Creole / Afromestizo,305,0.5 %
+19,1901,Zacapa,Zacapa,Extranjera(o),225,0.4 %
+19,1901,Zacapa,Zacapa,Garífuna,111,0.2 %
+19,1901,Zacapa,Zacapa,Ladina(o),58714,97.2 %
+19,1901,Zacapa,Zacapa,Maya,1055,1.7 %
+19,1901,Zacapa,Zacapa,Xinka,14,0.0 %
+19,1902,Zacapa,Estanzuela,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+19,1902,Zacapa,Estanzuela,Extranjera(o),11,0.1 %
+19,1902,Zacapa,Estanzuela,Garífuna,16,0.2 %
+19,1902,Zacapa,Estanzuela,Ladina(o),9640,98.4 %
+19,1902,Zacapa,Estanzuela,Maya,126,1.3 %
+19,1902,Zacapa,Estanzuela,Xinka,0,0.0 %
+19,1903,Zacapa,Río Hondo,Afrodescendiente / Creole / Afromestizo,9,0.0 %
+19,1903,Zacapa,Río Hondo,Extranjera(o),41,0.2 %
+19,1903,Zacapa,Río Hondo,Garífuna,26,0.1 %
+19,1903,Zacapa,Río Hondo,Ladina(o),21172,98.8 %
+19,1903,Zacapa,Río Hondo,Maya,179,0.8 %
+19,1903,Zacapa,Río Hondo,Xinka,7,0.0 %
+19,1904,Zacapa,Gualán,Afrodescendiente / Creole / Afromestizo,20,0.0 %
+19,1904,Zacapa,Gualán,Extranjera(o),38,0.1 %
+19,1904,Zacapa,Gualán,Garífuna,53,0.1 %
+19,1904,Zacapa,Gualán,Ladina(o),45036,98.6 %
+19,1904,Zacapa,Gualán,Maya,509,1.1 %
+19,1904,Zacapa,Gualán,Xinka,7,0.0 %
+19,1905,Zacapa,Teculután,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+19,1905,Zacapa,Teculután,Extranjera(o),19,0.1 %
+19,1905,Zacapa,Teculután,Garífuna,16,0.1 %
+19,1905,Zacapa,Teculután,Ladina(o),17363,98.6 %
+19,1905,Zacapa,Teculután,Maya,197,1.1 %
+19,1905,Zacapa,Teculután,Xinka,4,0.0 %
+19,1906,Zacapa,Usumatlán,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+19,1906,Zacapa,Usumatlán,Extranjera(o),38,0.3 %
+19,1906,Zacapa,Usumatlán,Garífuna,16,0.1 %
+19,1906,Zacapa,Usumatlán,Ladina(o),12058,98.6 %
+19,1906,Zacapa,Usumatlán,Maya,108,0.9 %
+19,1906,Zacapa,Usumatlán,Xinka,6,0.0 %
+19,1907,Zacapa,Cabañas,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+19,1907,Zacapa,Cabañas,Extranjera(o),15,0.1 %
+19,1907,Zacapa,Cabañas,Garífuna,13,0.1 %
+19,1907,Zacapa,Cabañas,Ladina(o),13544,99.3 %
+19,1907,Zacapa,Cabañas,Maya,68,0.5 %
+19,1907,Zacapa,Cabañas,Xinka,0,0.0 %
+19,1908,Zacapa,San Diego,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+19,1908,Zacapa,San Diego,Extranjera(o),5,0.1 %
+19,1908,Zacapa,San Diego,Garífuna,6,0.1 %
+19,1908,Zacapa,San Diego,Ladina(o),7168,99.1 %
+19,1908,Zacapa,San Diego,Maya,54,0.7 %
+19,1908,Zacapa,San Diego,Xinka,1,0.0 %
+19,1909,Zacapa,La Unión,Afrodescendiente / Creole / Afromestizo,436,1.3 %
+19,1909,Zacapa,La Unión,Extranjera(o),24,0.1 %
+19,1909,Zacapa,La Unión,Garífuna,38,0.1 %
+19,1909,Zacapa,La Unión,Ladina(o),30783,91.7 %
+19,1909,Zacapa,La Unión,Maya,2284,6.8 %
+19,1909,Zacapa,La Unión,Xinka,7,0.0 %
+19,1910,Zacapa,Huité,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+19,1910,Zacapa,Huité,Extranjera(o),6,0.1 %
+19,1910,Zacapa,Huité,Garífuna,28,0.2 %
+19,1910,Zacapa,Huité,Ladina(o),11317,98.7 %
+19,1910,Zacapa,Huité,Maya,118,1.0 %
+19,1910,Zacapa,Huité,Xinka,0,0.0 %
+19,1911,Zacapa,San Jorge,Afrodescendiente / Creole / Afromestizo,5,0.0 %
+19,1911,Zacapa,San Jorge,Extranjera(o),10,0.1 %
+19,1911,Zacapa,San Jorge,Garífuna,26,0.2 %
+19,1911,Zacapa,San Jorge,Ladina(o),12192,99.1 %
+19,1911,Zacapa,San Jorge,Maya,71,0.6 %
+19,1911,Zacapa,San Jorge,Xinka,0,0.0 %
+20,2001,Chiquimula,Chiquimula,Afrodescendiente / Creole / Afromestizo,54,0.0 %
+20,2001,Chiquimula,Chiquimula,Extranjera(o),174,0.2 %
+20,2001,Chiquimula,Chiquimula,Garífuna,211,0.2 %
+20,2001,Chiquimula,Chiquimula,Ladina(o),110116,98.8 %
+20,2001,Chiquimula,Chiquimula,Maya,938,0.8 %
+20,2001,Chiquimula,Chiquimula,Xinka,12,0.0 %
+20,2002,Chiquimula,San José La Arada,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+20,2002,Chiquimula,San José La Arada,Extranjera(o),26,0.3 %
+20,2002,Chiquimula,San José La Arada,Garífuna,7,0.1 %
+20,2002,Chiquimula,San José La Arada,Ladina(o),8563,97.8 %
+20,2002,Chiquimula,San José La Arada,Maya,157,1.8 %
+20,2002,Chiquimula,San José La Arada,Xinka,0,0.0 %
+20,2003,Chiquimula,San Juan Ermita,Afrodescendiente / Creole / Afromestizo,18,0.1 %
+20,2003,Chiquimula,San Juan Ermita,Extranjera(o),16,0.1 %
+20,2003,Chiquimula,San Juan Ermita,Garífuna,35,0.2 %
+20,2003,Chiquimula,San Juan Ermita,Ladina(o),11105,67.6 %
+20,2003,Chiquimula,San Juan Ermita,Maya,5244,31.9 %
+20,2003,Chiquimula,San Juan Ermita,Xinka,0,0.0 %
+20,2004,Chiquimula,Jocotán,Afrodescendiente / Creole / Afromestizo,31,0.0 %
+20,2004,Chiquimula,Jocotán,Extranjera(o),17,0.0 %
+20,2004,Chiquimula,Jocotán,Garífuna,122,0.2 %
+20,2004,Chiquimula,Jocotán,Ladina(o),12996,19.6 %
+20,2004,Chiquimula,Jocotán,Maya,53204,80.2 %
+20,2004,Chiquimula,Jocotán,Xinka,9,0.0 %
+20,2005,Chiquimula,Camotán,Afrodescendiente / Creole / Afromestizo,273,0.5 %
+20,2005,Chiquimula,Camotán,Extranjera(o),35,0.1 %
+20,2005,Chiquimula,Camotán,Garífuna,191,0.3 %
+20,2005,Chiquimula,Camotán,Ladina(o),19807,35.3 %
+20,2005,Chiquimula,Camotán,Maya,35824,63.8 %
+20,2005,Chiquimula,Camotán,Xinka,8,0.0 %
+20,2006,Chiquimula,Olopa,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+20,2006,Chiquimula,Olopa,Extranjera(o),11,0.0 %
+20,2006,Chiquimula,Olopa,Garífuna,55,0.2 %
+20,2006,Chiquimula,Olopa,Ladina(o),13207,48.0 %
+20,2006,Chiquimula,Olopa,Maya,14228,51.7 %
+20,2006,Chiquimula,Olopa,Xinka,4,0.0 %
+20,2007,Chiquimula,Esquipulas,Afrodescendiente / Creole / Afromestizo,370,0.7 %
+20,2007,Chiquimula,Esquipulas,Extranjera(o),181,0.3 %
+20,2007,Chiquimula,Esquipulas,Garífuna,86,0.2 %
+20,2007,Chiquimula,Esquipulas,Ladina(o),51595,96.3 %
+20,2007,Chiquimula,Esquipulas,Maya,1315,2.5 %
+20,2007,Chiquimula,Esquipulas,Xinka,9,0.0 %
+20,2008,Chiquimula,Concepción Las Minas,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+20,2008,Chiquimula,Concepción Las Minas,Extranjera(o),69,0.6 %
+20,2008,Chiquimula,Concepción Las Minas,Garífuna,12,0.1 %
+20,2008,Chiquimula,Concepción Las Minas,Ladina(o),11562,98.9 %
+20,2008,Chiquimula,Concepción Las Minas,Maya,45,0.4 %
+20,2008,Chiquimula,Concepción Las Minas,Xinka,2,0.0 %
+20,2009,Chiquimula,Quezaltepeque,Afrodescendiente / Creole / Afromestizo,5,0.0 %
+20,2009,Chiquimula,Quezaltepeque,Extranjera(o),28,0.1 %
+20,2009,Chiquimula,Quezaltepeque,Garífuna,44,0.2 %
+20,2009,Chiquimula,Quezaltepeque,Ladina(o),27795,99.0 %
+20,2009,Chiquimula,Quezaltepeque,Maya,199,0.7 %
+20,2009,Chiquimula,Quezaltepeque,Xinka,4,0.0 %
+20,2010,Chiquimula,San Jacinto,Afrodescendiente / Creole / Afromestizo,6,0.0 %
+20,2010,Chiquimula,San Jacinto,Extranjera(o),15,0.1 %
+20,2010,Chiquimula,San Jacinto,Garífuna,6,0.0 %
+20,2010,Chiquimula,San Jacinto,Ladina(o),12552,99.5 %
+20,2010,Chiquimula,San Jacinto,Maya,40,0.3 %
+20,2010,Chiquimula,San Jacinto,Xinka,0,0.0 %
+20,2011,Chiquimula,Ipala,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+20,2011,Chiquimula,Ipala,Extranjera(o),52,0.2 %
+20,2011,Chiquimula,Ipala,Garífuna,28,0.1 %
+20,2011,Chiquimula,Ipala,Ladina(o),22156,98.9 %
+20,2011,Chiquimula,Ipala,Maya,174,0.8 %
+20,2011,Chiquimula,Ipala,Xinka,1,0.0 %
+21,2101,Jalapa,Jalapa,Afrodescendiente / Creole / Afromestizo,228,0.1 %
+21,2101,Jalapa,Jalapa,Extranjera(o),272,0.2 %
+21,2101,Jalapa,Jalapa,Garífuna,477,0.3 %
+21,2101,Jalapa,Jalapa,Ladina(o),78995,49.4 %
+21,2101,Jalapa,Jalapa,Maya,1701,1.1 %
+21,2101,Jalapa,Jalapa,Xinka,78167,48.9 %
+21,2102,Jalapa,San Pedro Pinula,Afrodescendiente / Creole / Afromestizo,203,0.3 %
+21,2102,Jalapa,San Pedro Pinula,Extranjera(o),34,0.1 %
+21,2102,Jalapa,San Pedro Pinula,Garífuna,95,0.2 %
+21,2102,Jalapa,San Pedro Pinula,Ladina(o),55293,89.3 %
+21,2102,Jalapa,San Pedro Pinula,Maya,6198,10.0 %
+21,2102,Jalapa,San Pedro Pinula,Xinka,85,0.1 %
+21,2103,Jalapa,San Luis Jilotepeque,Afrodescendiente / Creole / Afromestizo,22,0.1 %
+21,2103,Jalapa,San Luis Jilotepeque,Extranjera(o),31,0.1 %
+21,2103,Jalapa,San Luis Jilotepeque,Garífuna,39,0.2 %
+21,2103,Jalapa,San Luis Jilotepeque,Ladina(o),8545,34.6 %
+21,2103,Jalapa,San Luis Jilotepeque,Maya,16036,65.0 %
+21,2103,Jalapa,San Luis Jilotepeque,Xinka,6,0.0 %
+21,2104,Jalapa,San Manuel Chaparrón,Afrodescendiente / Creole / Afromestizo,1,0.0 %
+21,2104,Jalapa,San Manuel Chaparrón,Extranjera(o),4,0.0 %
+21,2104,Jalapa,San Manuel Chaparrón,Garífuna,12,0.1 %
+21,2104,Jalapa,San Manuel Chaparrón,Ladina(o),8243,99.1 %
+21,2104,Jalapa,San Manuel Chaparrón,Maya,20,0.2 %
+21,2104,Jalapa,San Manuel Chaparrón,Xinka,37,0.4 %
+21,2105,Jalapa,San Carlos Alzatate,Afrodescendiente / Creole / Afromestizo,93,0.5 %
+21,2105,Jalapa,San Carlos Alzatate,Extranjera(o),3,0.0 %
+21,2105,Jalapa,San Carlos Alzatate,Garífuna,85,0.4 %
+21,2105,Jalapa,San Carlos Alzatate,Ladina(o),1112,5.9 %
+21,2105,Jalapa,San Carlos Alzatate,Maya,190,1.0 %
+21,2105,Jalapa,San Carlos Alzatate,Xinka,17494,92.2 %
+21,2106,Jalapa,Monjas,Afrodescendiente / Creole / Afromestizo,48,0.2 %
+21,2106,Jalapa,Monjas,Extranjera(o),37,0.1 %
+21,2106,Jalapa,Monjas,Garífuna,24,0.1 %
+21,2106,Jalapa,Monjas,Ladina(o),26523,97.0 %
+21,2106,Jalapa,Monjas,Maya,242,0.9 %
+21,2106,Jalapa,Monjas,Xinka,480,1.8 %
+21,2107,Jalapa,Mataquescuintla,Afrodescendiente / Creole / Afromestizo,95,0.2 %
+21,2107,Jalapa,Mataquescuintla,Extranjera(o),103,0.2 %
+21,2107,Jalapa,Mataquescuintla,Garífuna,100,0.2 %
+21,2107,Jalapa,Mataquescuintla,Ladina(o),28786,68.8 %
+21,2107,Jalapa,Mataquescuintla,Maya,504,1.2 %
+21,2107,Jalapa,Mataquescuintla,Xinka,12260,29.3 %
+22,2201,Jutiapa,Jutiapa,Afrodescendiente / Creole / Afromestizo,121,0.1 %
+22,2201,Jutiapa,Jutiapa,Extranjera(o),214,0.1 %
+22,2201,Jutiapa,Jutiapa,Garífuna,316,0.2 %
+22,2201,Jutiapa,Jutiapa,Ladina(o),93292,64.0 %
+22,2201,Jutiapa,Jutiapa,Maya,1617,1.1 %
+22,2201,Jutiapa,Jutiapa,Xinka,50320,34.5 %
+22,2202,Jutiapa,El Progreso,Afrodescendiente / Creole / Afromestizo,5,0.0 %
+22,2202,Jutiapa,El Progreso,Extranjera(o),100,0.5 %
+22,2202,Jutiapa,El Progreso,Garífuna,31,0.1 %
+22,2202,Jutiapa,El Progreso,Ladina(o),21614,97.7 %
+22,2202,Jutiapa,El Progreso,Maya,257,1.2 %
+22,2202,Jutiapa,El Progreso,Xinka,107,0.5 %
+22,2203,Jutiapa,Santa Catarina Mita,Afrodescendiente / Creole / Afromestizo,9,0.0 %
+22,2203,Jutiapa,Santa Catarina Mita,Extranjera(o),86,0.3 %
+22,2203,Jutiapa,Santa Catarina Mita,Garífuna,35,0.1 %
+22,2203,Jutiapa,Santa Catarina Mita,Ladina(o),27236,94.0 %
+22,2203,Jutiapa,Santa Catarina Mita,Maya,205,0.7 %
+22,2203,Jutiapa,Santa Catarina Mita,Xinka,1412,4.9 %
+22,2204,Jutiapa,Agua Blanca,Afrodescendiente / Creole / Afromestizo,7,0.0 %
+22,2204,Jutiapa,Agua Blanca,Extranjera(o),37,0.2 %
+22,2204,Jutiapa,Agua Blanca,Garífuna,15,0.1 %
+22,2204,Jutiapa,Agua Blanca,Ladina(o),15655,95.7 %
+22,2204,Jutiapa,Agua Blanca,Maya,188,1.1 %
+22,2204,Jutiapa,Agua Blanca,Xinka,451,2.8 %
+22,2205,Jutiapa,Asunción Mita,Afrodescendiente / Creole / Afromestizo,16,0.0 %
+22,2205,Jutiapa,Asunción Mita,Extranjera(o),307,0.6 %
+22,2205,Jutiapa,Asunción Mita,Garífuna,68,0.1 %
+22,2205,Jutiapa,Asunción Mita,Ladina(o),46313,95.9 %
+22,2205,Jutiapa,Asunción Mita,Maya,735,1.5 %
+22,2205,Jutiapa,Asunción Mita,Xinka,858,1.8 %
+22,2206,Jutiapa,Yupiltepeque,Afrodescendiente / Creole / Afromestizo,20,0.1 %
+22,2206,Jutiapa,Yupiltepeque,Extranjera(o),27,0.2 %
+22,2206,Jutiapa,Yupiltepeque,Garífuna,16,0.1 %
+22,2206,Jutiapa,Yupiltepeque,Ladina(o),13302,76.5 %
+22,2206,Jutiapa,Yupiltepeque,Maya,94,0.5 %
+22,2206,Jutiapa,Yupiltepeque,Xinka,3930,22.6 %
+22,2207,Jutiapa,Atescatempa,Afrodescendiente / Creole / Afromestizo,14,0.1 %
+22,2207,Jutiapa,Atescatempa,Extranjera(o),47,0.3 %
+22,2207,Jutiapa,Atescatempa,Garífuna,9,0.0 %
+22,2207,Jutiapa,Atescatempa,Ladina(o),17658,96.0 %
+22,2207,Jutiapa,Atescatempa,Maya,138,0.7 %
+22,2207,Jutiapa,Atescatempa,Xinka,536,2.9 %
+22,2208,Jutiapa,Jerez,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+22,2208,Jutiapa,Jerez,Extranjera(o),36,0.6 %
+22,2208,Jutiapa,Jerez,Garífuna,7,0.1 %
+22,2208,Jutiapa,Jerez,Ladina(o),6032,95.6 %
+22,2208,Jutiapa,Jerez,Maya,67,1.1 %
+22,2208,Jutiapa,Jerez,Xinka,167,2.6 %
+22,2209,Jutiapa,El Adelanto,Afrodescendiente / Creole / Afromestizo,2,0.0 %
+22,2209,Jutiapa,El Adelanto,Extranjera(o),4,0.1 %
+22,2209,Jutiapa,El Adelanto,Garífuna,5,0.1 %
+22,2209,Jutiapa,El Adelanto,Ladina(o),5681,87.4 %
+22,2209,Jutiapa,El Adelanto,Maya,22,0.3 %
+22,2209,Jutiapa,El Adelanto,Xinka,786,12.1 %
+22,2210,Jutiapa,Zapotitlán,Afrodescendiente / Creole / Afromestizo,3,0.0 %
+22,2210,Jutiapa,Zapotitlán,Extranjera(o),10,0.1 %
+22,2210,Jutiapa,Zapotitlán,Garífuna,27,0.3 %
+22,2210,Jutiapa,Zapotitlán,Ladina(o),7446,81.6 %
+22,2210,Jutiapa,Zapotitlán,Maya,32,0.4 %
+22,2210,Jutiapa,Zapotitlán,Xinka,1608,17.6 %
+22,2211,Jutiapa,Comapa,Afrodescendiente / Creole / Afromestizo,226,0.7 %
+22,2211,Jutiapa,Comapa,Extranjera(o),16,0.0 %
+22,2211,Jutiapa,Comapa,Garífuna,79,0.2 %
+22,2211,Jutiapa,Comapa,Ladina(o),28050,87.1 %
+22,2211,Jutiapa,Comapa,Maya,210,0.7 %
+22,2211,Jutiapa,Comapa,Xinka,3626,11.3 %
+22,2212,Jutiapa,Jalpatagua,Afrodescendiente / Creole / Afromestizo,70,0.2 %
+22,2212,Jutiapa,Jalpatagua,Extranjera(o),114,0.4 %
+22,2212,Jutiapa,Jalpatagua,Garífuna,77,0.3 %
+22,2212,Jutiapa,Jalpatagua,Ladina(o),25837,89.6 %
+22,2212,Jutiapa,Jalpatagua,Maya,338,1.2 %
+22,2212,Jutiapa,Jalpatagua,Xinka,2396,8.3 %
+22,2213,Jutiapa,Conguaco,Afrodescendiente / Creole / Afromestizo,191,0.8 %
+22,2213,Jutiapa,Conguaco,Extranjera(o),16,0.1 %
+22,2213,Jutiapa,Conguaco,Garífuna,94,0.4 %
+22,2213,Jutiapa,Conguaco,Ladina(o),11456,48.8 %
+22,2213,Jutiapa,Conguaco,Maya,140,0.6 %
+22,2213,Jutiapa,Conguaco,Xinka,11555,49.3 %
+22,2214,Jutiapa,Moyuta,Afrodescendiente / Creole / Afromestizo,182,0.5 %
+22,2214,Jutiapa,Moyuta,Extranjera(o),71,0.2 %
+22,2214,Jutiapa,Moyuta,Garífuna,94,0.2 %
+22,2214,Jutiapa,Moyuta,Ladina(o),31745,79.8 %
+22,2214,Jutiapa,Moyuta,Maya,366,0.9 %
+22,2214,Jutiapa,Moyuta,Xinka,7323,18.4 %
+22,2215,Jutiapa,Pasaco,Afrodescendiente / Creole / Afromestizo,4,0.0 %
+22,2215,Jutiapa,Pasaco,Extranjera(o),23,0.3 %
+22,2215,Jutiapa,Pasaco,Garífuna,3,0.0 %
+22,2215,Jutiapa,Pasaco,Ladina(o),8759,98.9 %
+22,2215,Jutiapa,Pasaco,Maya,62,0.7 %
+22,2215,Jutiapa,Pasaco,Xinka,3,0.0 %
+22,2216,Jutiapa,San José Acatempa,Afrodescendiente / Creole / Afromestizo,0,0.0 %
+22,2216,Jutiapa,San José Acatempa,Extranjera(o),11,0.1 %
+22,2216,Jutiapa,San José Acatempa,Garífuna,6,0.0 %
+22,2216,Jutiapa,San José Acatempa,Ladina(o),12998,98.4 %
+22,2216,Jutiapa,San José Acatempa,Maya,126,1.0 %
+22,2216,Jutiapa,San José Acatempa,Xinka,65,0.5 %
+22,2217,Jutiapa,Quesada,Afrodescendiente / Creole / Afromestizo,20,0.1 %
+22,2217,Jutiapa,Quesada,Extranjera(o),37,0.2 %
+22,2217,Jutiapa,Quesada,Garífuna,58,0.3 %
+22,2217,Jutiapa,Quesada,Ladina(o),13261,58.4 %
+22,2217,Jutiapa,Quesada,Maya,171,0.8 %
+22,2217,Jutiapa,Quesada,Xinka,9163,40.3 %
